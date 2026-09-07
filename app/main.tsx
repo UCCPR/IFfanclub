@@ -4,6 +4,9 @@ import Home from './page';
 import './globals.css';
 import './gacha.css';
 import './pool-authoritative.css';
+import { registerAssetCache } from '@/lib/public-asset';
+
+registerAssetCache();
 
 const root = createRoot(document.getElementById('root')!);
 if (

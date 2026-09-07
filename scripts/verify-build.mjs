@@ -26,7 +26,7 @@ const explicitAssets = new Set([
     ),
 ]);
 const allowedFile =
-  /^(?:index\.html|favicon\.svg|featured\.webp|og\.png|assets\/[\w.-]+\.(?:js|css))$/;
+  /^(?:index\.html|asset-cache-sw\.js|favicon\.svg|featured\.webp|og\.png|assets\/[\w.-]+\.(?:js|css))$/;
 let count = 0,
   bytes = 0;
 async function walk(dir) {
@@ -67,6 +67,15 @@ async function walk(dir) {
 }
 await walk(root);
 const html = await readFile(path.join(root, 'index.html'), 'utf8');
+const assetCache = await readFile(
+  path.join(root, 'asset-cache-sw.js'),
+  'utf8',
+);
+assert(
+  assetCache.includes("CACHE='iffanclub-assets-v1'") &&
+    assetCache.includes("url.searchParams.has('v')"),
+  'Missing versioned public asset cache',
+);
 assert(html.includes('幻想收束'), 'Missing product content');
 assert(
   !html.includes('Untitled site') && !html.includes('Building your site'),

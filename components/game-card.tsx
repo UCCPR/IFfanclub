@@ -1,14 +1,12 @@
 import { useState } from 'react';
 import type { Card, Result } from '@/lib/game';
 import { initialRarity, rarityTone } from '@/lib/gacha-presentation';
+import { publicAssetUrl } from '@/lib/public-asset';
 
-const publicAsset = (path: string) =>
-  (import.meta.env?.BASE_URL || './') + path;
-
-export const uiAsset = (name: string) => publicAsset('gacha/' + name + '.webp');
+export const uiAsset = (name: string) => publicAssetUrl('gacha/' + name + '.webp');
 export const artAsset = (card: Card, large = false) =>
   card.sourceImage
-    ? publicAsset(
+    ? publicAssetUrl(
         (large ? 'art/' : 'cards/') + card.sourceImage.replace('.png', '.webp'),
       )
     : '';

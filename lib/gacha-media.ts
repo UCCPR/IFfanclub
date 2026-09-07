@@ -1,3 +1,5 @@
+import { publicAssetUrl } from './public-asset.ts';
+
 export const GACHA_MEDIA = {
   poolLoop: 'pool-loop.mp4',
   // Opening cat chase, including its original embedded meow/BGM audio.
@@ -52,7 +54,7 @@ export const GACHA_MEDIA = {
 } as const;
 
 export const mediaUrl = (key: keyof typeof GACHA_MEDIA) =>
-  (import.meta.env?.BASE_URL || './') + 'media/' + GACHA_MEDIA[key];
+  publicAssetUrl('media/' + GACHA_MEDIA[key]);
 
 export type IntroVariant = 'normal' | 'rare' | 'fes';
 
