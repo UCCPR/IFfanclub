@@ -30,6 +30,7 @@
 - 敏感路径命中：0。
 - `node_modules/`、`dist/`、构建缓存以及生成型 `public/cards`、`public/art`、`public/gacha` 不会提交。
 - 构建会为 `cards`、`art`、`gacha`、`media` 资源 URL 附加内容哈希，并发布按需缓存的 Service Worker。普通更新不会预取全部资源；未改动文件沿用原 URL 和本地缓存，内容变化的文件才生成新 URL。媒体 Range 请求由浏览器和 Pages 原生处理，避免破坏流式播放。
+- 首屏先加载可交互 UI 和当前 UP 立绘；3.1 MiB 卡池循环视频在页面 `load` 后启动，背景 BGM 在浏览器允许播放或用户首次交互时加载，避免媒体阻塞首屏完成时间。
 
 ## 3. 技术与目录结构
 

@@ -242,6 +242,7 @@ export default function Home() {
   );
   const poolGesture = useRef<number | null>(null);
   const poolAudioRef = useRef<HTMLAudioElement>(null);
+  const [poolMediaReady, setPoolMediaReady] = useState(false);
   const mode = currentPool.mode;
   const [notice, setNotice] = useState('');
   const [details, setDetails] = useState<Card | null>(null);
@@ -274,9 +275,18 @@ export default function Home() {
   }, [save]);
   const disabled = !ready || !!problem || busy;
   useEffect(() => {
+    const revealMedia = () => setPoolMediaReady(true);
+    if (document.readyState === 'complete') {
+      const timer = window.setTimeout(revealMedia, 250);
+      return () => window.clearTimeout(timer);
+    }
+    window.addEventListener('load', revealMedia, { once: true });
+    return () => window.removeEventListener('load', revealMedia);
+  }, []);
+  useEffect(() => {
     const audio = poolAudioRef.current;
     if (!audio) return;
-    const active = view === 'recruit' && !cinema;
+    const active = poolMediaReady && view === 'recruit' && !cinema;
     if (!active) {
       audio.pause();
       return;
@@ -286,7 +296,7 @@ export default function Home() {
     play();
     window.addEventListener('pointerdown', play, { once: true });
     return () => window.removeEventListener('pointerdown', play);
-  }, [view, cinema]);
+  }, [view, cinema, poolMediaReady]);
   const originalNav = [
     { label: '首页', target: 'recruit' as View },
     { label: '角色', target: 'collection' as View },
@@ -486,7 +496,7 @@ export default function Home() {
     <div className={'app-shell ' + (view === 'recruit' ? 'gacha-home' : '')}>
       {/* Background music has no spoken content that requires captions. */}
       {/* eslint-disable-next-line jsx-a11y/media-has-caption */}
-      <audio ref={poolAudioRef} src={mediaUrl('originalBgm')} preload="auto" loop />
+      <audio ref={poolAudioRef} src={mediaUrl('originalBgm')} preload="none" loop />
       <header className="topbar">
         {view === 'recruit' ? (
           // The original top status bar now lives inside `.original-pool`
@@ -758,19 +768,22 @@ export default function Home() {
                   {/* The recovered pool movie supplies the original animated
                       UP-character half. Its embedded audio stays muted because
                       the pool page owns the original looping BGM separately. */}
-                  <video
-                    className="pool-stage-motion"
-                    src={mediaUrl('poolLoop')}
-                    autoPlay
-                    loop
-                    muted
-                    playsInline
-                    preload="auto"
-                    aria-label="UP角色动态主视觉"
-                  />
+                  {poolMediaReady && (
+                    <video
+                      className="pool-stage-motion"
+                      src={mediaUrl('poolLoop')}
+                      autoPlay
+                      loop
+                      muted
+                      playsInline
+                      preload="metadata"
+                      aria-label="UP角色动态主视觉"
+                    />
+                  )}
                   <div className="pool-featured-art" key={poolId}>
                     {featuredCards.map((card, index) => (
                       <img key={card.id} src={artAsset(card, true)} alt={card.name}
+                        fetchPriority={index === 0 ? 'high' : 'auto'}
                         className={'pool-featured-character character-' + index} />
                     ))}
                   </div>
