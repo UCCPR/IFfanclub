@@ -71,20 +71,20 @@
 }
 
 /* Native typography follows the fixed game canvas, never the browser width. */
-.pool-fixed-canvas .pool-stage-title-text { font-size: 1.78cqw; }
-.pool-fixed-canvas .pool-stage-plv-text { font-size: 1.67cqw; }
-.pool-fixed-canvas .pool-stage-gauge { font-size: 1.67cqw; }
-.pool-fixed-canvas .pool-stage-battery { font-size: 1.56cqw; }
-.pool-fixed-canvas .pool-period-text { font-size: 1.25cqw; }
-.pool-fixed-canvas .pool-details { font-size: 1.25cqw; }
-.pool-fixed-canvas .pool-draw-slot .pool-balloon { font-size: 1.35cqw; }
-.pool-fixed-canvas .pool-draw-slot .pool-balloon.large { font-size: 1.46cqw; }
-.pool-fixed-canvas .pool-wallet-strip { font-size: 1.45cqw; }
-.pool-fixed-canvas .pool-pity { font-size: 1.04cqw; }
+.pool-fixed-canvas .pool-stage-title-text { font-size: 1.5cqw; }
+.pool-fixed-canvas .pool-stage-plv-text { font-size: 1.38cqw; }
+.pool-fixed-canvas .pool-stage-gauge { font-size: 1.38cqw; }
+.pool-fixed-canvas .pool-stage-battery { font-size: 1.3cqw; }
+.pool-fixed-canvas .pool-period-text { font-size: 1.05cqw; }
+.pool-fixed-canvas .pool-details { font-size: 1.02cqw; }
+.pool-fixed-canvas .pool-draw-slot .pool-balloon { font-size: 1.08cqw; }
+.pool-fixed-canvas .pool-draw-slot .pool-balloon.large { font-size: 1.18cqw; }
+.pool-fixed-canvas .pool-wallet-strip { font-size: 1.18cqw; }
+.pool-fixed-canvas .pool-pity { font-size: .9cqw; }
 .pool-fixed-canvas .pool-character-detail span,
-.pool-fixed-canvas .pool-lineup span { font-size: 1.25cqw; }
-.pool-fixed-canvas .pool-lineup i { font-size: 1.04cqw; }
-.pool-fixed-canvas .original-draw-button .draw-count { font-size: 3.75cqw; }
-.pool-fixed-canvas .original-draw-button .draw-label { font-size: 2.08cqw; }
-.pool-fixed-canvas .original-draw-button .draw-cost { font-size: 1.56cqw; }
-.pool-fixed-canvas .pool-draw-slot em { font-size: 1.15cqw; }
+.pool-fixed-canvas .pool-lineup span { font-size: 1.05cqw; }
+.pool-fixed-canvas .pool-lineup i { font-size: .9cqw; }
+.pool-fixed-canvas .original-draw-button .draw-count { font-size: 2.9cqw; }
+.pool-fixed-canvas .original-draw-button .draw-label { font-size: 1.6cqw; }
+.pool-fixed-canvas .original-draw-button .draw-cost { font-size: 1.25cqw; }
+.pool-fixed-canvas .pool-draw-slot em { font-size: .92cqw; }
