@@ -1,0 +1,90 @@
+/*
+ * Authoritative pool-stage boundary.
+ *
+ * The legacy stylesheet still contains earlier reconstruction passes. This
+ * file is imported last and is the only layer allowed to decide viewport fit,
+ * native canvas dimensions and responsive visibility inside the game stage.
+ */
+.gacha-home .main-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 clamp(70px, 6.7vw, 86px);
+}
+
+.pool-fixed-viewport {
+  position: relative;
+  width: min(100%, calc((100dvh - clamp(70px, 6.7vw, 86px)) * 16 / 9));
+  max-width: 100%;
+  aspect-ratio: 16 / 9;
+  flex: 0 0 auto;
+  overflow: hidden;
+  background: #071225;
+}
+
+.pool-fixed-canvas {
+  position: absolute;
+  inset: 0 auto auto 0;
+  width: 960px;
+  height: 540px;
+  transform-origin: top left;
+}
+
+.gacha-home .pool-fixed-canvas > .original-pool[class] {
+  width: 960px !important;
+  max-width: none !important;
+  height: 540px !important;
+  min-height: 0 !important;
+  aspect-ratio: auto !important;
+  container-type: inline-size;
+}
+
+/* Never let viewport breakpoints remove or relocate native stage layers. */
+.pool-fixed-canvas .pool-pity {
+  display: block !important;
+}
+.pool-fixed-canvas .pool-stage-top,
+.pool-fixed-canvas .pool-stage-art,
+.pool-fixed-canvas .pool-interface,
+.pool-fixed-canvas .pool-draw-actions {
+  position: absolute;
+}
+.pool-fixed-canvas .pool-stage-art,
+.pool-fixed-canvas .pool-interface {
+  inset: 0;
+}
+
+.pool-fixed-canvas .pool-stage-motion {
+  position: absolute;
+  z-index: 2;
+  inset: 0 auto 0 0;
+  width: 52% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  object-position: center !important;
+  clip-path: polygon(0 0, 94% 0, 100% 100%, 0 100%);
+  pointer-events: none;
+}
+
+.pool-fixed-canvas .pool-stage-art::after {
+  z-index: 3 !important;
+}
+
+/* Native typography follows the fixed game canvas, never the browser width. */
+.pool-fixed-canvas .pool-stage-title-text { font-size: 1.78cqw; }
+.pool-fixed-canvas .pool-stage-plv-text { font-size: 1.67cqw; }
+.pool-fixed-canvas .pool-stage-gauge { font-size: 1.67cqw; }
+.pool-fixed-canvas .pool-stage-battery { font-size: 1.56cqw; }
+.pool-fixed-canvas .pool-period-text { font-size: 1.25cqw; }
+.pool-fixed-canvas .pool-details { font-size: 1.25cqw; }
+.pool-fixed-canvas .pool-draw-slot .pool-balloon { font-size: 1.35cqw; }
+.pool-fixed-canvas .pool-draw-slot .pool-balloon.large { font-size: 1.46cqw; }
+.pool-fixed-canvas .pool-wallet-strip { font-size: 1.45cqw; }
+.pool-fixed-canvas .pool-pity { font-size: 1.04cqw; }
+.pool-fixed-canvas .pool-character-detail span,
+.pool-fixed-canvas .pool-lineup span { font-size: 1.25cqw; }
+.pool-fixed-canvas .pool-lineup i { font-size: 1.04cqw; }
+.pool-fixed-canvas .original-draw-button .draw-count { font-size: 3.75cqw; }
+.pool-fixed-canvas .original-draw-button .draw-label { font-size: 2.08cqw; }
+.pool-fixed-canvas .original-draw-button .draw-cost { font-size: 1.56cqw; }
+.pool-fixed-canvas .pool-draw-slot em { font-size: 1.15cqw; }

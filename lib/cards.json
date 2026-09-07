@@ -1,0 +1,7148 @@
+[
+  {
+    "id": "100111001",
+    "name": "【不幸体質】上条 当麻",
+    "stars": 1,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100111001.png"
+  },
+  {
+    "id": "100123001",
+    "name": "【ヒーロー志願】上条 当麻",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100123001.png"
+  },
+  {
+    "id": "100131001",
+    "name": "【幻想殺し】上条 当麻",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100131001.png"
+  },
+  {
+    "id": "100233001",
+    "name": "【腹ペコシスター】インデックス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100233001.png"
+  },
+  {
+    "id": "100313001",
+    "name": "【デルタフォース】土御門 元春",
+    "stars": 1,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100313001.png"
+  },
+  {
+    "id": "100323001",
+    "name": "【多角スパイ】土御門 元春",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100323001.png"
+  },
+  {
+    "id": "100332001",
+    "name": "【グループ】土御門 元春",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100332001.png"
+  },
+  {
+    "id": "100412001",
+    "name": "【常盤台中学生】御坂 美琴",
+    "stars": 1,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100412001.png"
+  },
+  {
+    "id": "100422001",
+    "name": "【電撃使い】御坂 美琴",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100422001.png"
+  },
+  {
+    "id": "100433001",
+    "name": "【超電磁砲】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100433001.png"
+  },
+  {
+    "id": "100514001",
+    "name": "【常盤台中学生】白井 黒子",
+    "stars": 1,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100514001.png"
+  },
+  {
+    "id": "100521001",
+    "name": "【空間移動】白井 黒子",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100521001.png"
+  },
+  {
+    "id": "100533001",
+    "name": "【風紀委員】白井 黒子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100533001.png"
+  },
+  {
+    "id": "100913001",
+    "name": "【常盤台中学生】婚后 光子",
+    "stars": 1,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100913001.png"
+  },
+  {
+    "id": "101022001",
+    "name": "【心理掌握】食蜂 操祈",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101022001.png"
+  },
+  {
+    "id": "101032001",
+    "name": "【女王サマ】食蜂 操祈",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101032001.png"
+  },
+  {
+    "id": "101121001",
+    "name": "【原子崩し】麦野 沈利",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101121001.png"
+  },
+  {
+    "id": "101212001",
+    "name": "【アステカの魔術師】海原 光貴",
+    "stars": 1,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101212001.png"
+  },
+  {
+    "id": "101332001",
+    "name": "【グループ】一方通行",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101332001.png"
+  },
+  {
+    "id": "101335001",
+    "name": "【学園都市最強】一方通行",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101335001.png"
+  },
+  {
+    "id": "101725001",
+    "name": "【座標移動】結標 淡希",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101725001.png"
+  },
+  {
+    "id": "101821001",
+    "name": "【窒素装甲】絹旗 最愛",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101821001.png"
+  },
+  {
+    "id": "101922001",
+    "name": "【トラップマスター】フレンダ＝セイヴェルン",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101922001.png"
+  },
+  {
+    "id": "102111001",
+    "name": "【量産型クローン】御坂妹",
+    "stars": 1,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102111001.png"
+  },
+  {
+    "id": "102125001",
+    "name": "【欠陥電気】御坂妹",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102125001.png"
+  },
+  {
+    "id": "102131001",
+    "name": "【被検体】御坂妹",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102131001.png"
+  },
+  {
+    "id": "102411001",
+    "name": "【魔術師】ステイル＝マグヌス",
+    "stars": 1,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102411001.png"
+  },
+  {
+    "id": "102421001",
+    "name": "【ルーンの使い手】ステイル＝マグヌス",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102421001.png"
+  },
+  {
+    "id": "102431001",
+    "name": "【天才魔術師】ステイル＝マグヌス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102431001.png"
+  },
+  {
+    "id": "102512001",
+    "name": "【魔術師】神裂 火織",
+    "stars": 1,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102512001.png"
+  },
+  {
+    "id": "102522001",
+    "name": "【七天七刀】神裂 火織",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102522001.png"
+  },
+  {
+    "id": "102532001",
+    "name": "【聖人】神裂 火織",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102532001.png"
+  },
+  {
+    "id": "102713001",
+    "name": "【魔術師】シェリー＝クロムウェル",
+    "stars": 1,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102713001.png"
+  },
+  {
+    "id": "102731001",
+    "name": "【ゴーレム使い】シェリー＝クロムウェル",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102731001.png"
+  },
+  {
+    "id": "102924001",
+    "name": "【天草式十字凄教】建宮 斎字",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102924001.png"
+  },
+  {
+    "id": "102933001",
+    "name": "【兄貴分】建宮 斎字",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102933001.png"
+  },
+  {
+    "id": "103023001",
+    "name": "【天草式十字凄教】五和",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_103023001.png"
+  },
+  {
+    "id": "103114001",
+    "name": "【シスター】アニェーゼ＝サンクティス",
+    "stars": 1,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_103114001.png"
+  },
+  {
+    "id": "103211001",
+    "name": "【シスター】ルチア",
+    "stars": 1,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_103211001.png"
+  },
+  {
+    "id": "103315001",
+    "name": "【シスター】アンジェレネ",
+    "stars": 1,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_103315001.png"
+  },
+  {
+    "id": "103422001",
+    "name": "【御使堕し】ミーシャ＝クロイツェフ",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_103422001.png"
+  },
+  {
+    "id": "103823001",
+    "name": "【黄金錬成】アウレオルス＝イザード",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_103823001.png"
+  },
+  {
+    "id": "104013001",
+    "name": "【魔術師】オリアナ＝トムソン",
+    "stars": 1,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_104013001.png"
+  },
+  {
+    "id": "104021001",
+    "name": "【速記原典】オリアナ＝トムソン",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_104021001.png"
+  },
+  {
+    "id": "104613001",
+    "name": "【梓弓】闇咲 逢魔",
+    "stars": 1,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_104613001.png"
+  },
+  {
+    "id": "100430002",
+    "name": "【エンドレスサマー】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100430002.png"
+  },
+  {
+    "id": "102530002",
+    "name": "【サンセットビーチ】神裂 火織",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102530002.png"
+  },
+  {
+    "id": "102130002",
+    "name": "【真夏の休日】御坂妹",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102130002.png"
+  },
+  {
+    "id": "104230001",
+    "name": "【学園都市第二位】垣根 帝督",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_104230001.png"
+  },
+  {
+    "id": "101130001",
+    "name": "【エレガントナイト】麦野 沈利",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101130001.png"
+  },
+  {
+    "id": "101830001",
+    "name": "【水上遊泳】絹旗 最愛",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101830001.png"
+  },
+  {
+    "id": "101930001",
+    "name": "【水辺の悪戯】フレンダ＝セイヴェルン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101930001.png"
+  },
+  {
+    "id": "100530002",
+    "name": "【炎天下の誘惑】白井 黒子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100530002.png"
+  },
+  {
+    "id": "103030001",
+    "name": "【サマーバケーション】五和",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_103030001.png"
+  },
+  {
+    "id": "101330002",
+    "name": "【黒い翼】一方通行",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101330002.png"
+  },
+  {
+    "id": "102530003",
+    "name": "【黒衣の令嬢】神裂 火織",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102530003.png"
+  },
+  {
+    "id": "102430002",
+    "name": "【仮面の男】ステイル＝マグヌス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102430002.png"
+  },
+  {
+    "id": "104030001",
+    "name": "【追跡封じ】オリアナ＝トムソン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_104030001.png"
+  },
+  {
+    "id": "109930001",
+    "name": "【雷神】トール",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_109930001.png"
+  },
+  {
+    "id": "100530003",
+    "name": "【おてんばメイド】白井 黒子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100530003.png"
+  },
+  {
+    "id": "102130003",
+    "name": "【メイド訓練中】御坂妹",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102130003.png"
+  },
+  {
+    "id": "100430003",
+    "name": "【聖夜の祝福】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100430003.png"
+  },
+  {
+    "id": "100530004",
+    "name": "【聖なる風紀委員】白井 黒子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100530004.png"
+  },
+  {
+    "id": "500130001",
+    "name": "【赤鼻のトナカイ】上条 当麻",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_500130001.png"
+  },
+  {
+    "id": "103030002",
+    "name": "【魅惑のサンタ服】五和",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_103030002.png"
+  },
+  {
+    "id": "104030002",
+    "name": "【一夜限りのサンタ】オリアナ＝トムソン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_104030002.png"
+  },
+  {
+    "id": "100130002",
+    "name": "【謹賀新年】上条 当麻",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100130002.png"
+  },
+  {
+    "id": "101030002",
+    "name": "【瑞祥新春】食蜂 操祈",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101030002.png"
+  },
+  {
+    "id": "101330003",
+    "name": "【恭賀新年】一方通行",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101330003.png"
+  },
+  {
+    "id": "100430004",
+    "name": "【大覇星祭】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100430004.png"
+  },
+  {
+    "id": "700130001",
+    "name": "【魔神の理解者】上条 当麻",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_700130001.png"
+  },
+  {
+    "id": "704530001",
+    "name": "【魔神】オティヌス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_704530001.png"
+  },
+  {
+    "id": "102530004",
+    "name": "【堕天使メイド】神裂 火織",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102530004.png"
+  },
+  {
+    "id": "103030003",
+    "name": "【大精霊チラメイド】五和",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_103030003.png"
+  },
+  {
+    "id": "103130001",
+    "name": "【適正者】アニェーゼ＝サンクティス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_103130001.png"
+  },
+  {
+    "id": "102130004",
+    "name": "【バルーンハンター】御坂妹",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102130004.png"
+  },
+  {
+    "id": "101330004",
+    "name": "【潜入捜査】一方通行",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101330004.png"
+  },
+  {
+    "id": "104230002",
+    "name": "【潜入捜査】垣根 帝督",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_104230002.png"
+  },
+  {
+    "id": "101030003",
+    "name": "【選手宣誓】食蜂 操祈",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101030003.png"
+  },
+  {
+    "id": "108030001",
+    "name": "【『尻尾』の霊装】レッサー",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_108030001.png"
+  },
+  {
+    "id": "903330001",
+    "name": "【十字教徒】アンジェレネ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "ショップ限定",
+    "sourceImage": "card_cutin_903330001.png"
+  },
+  {
+    "id": "104430001",
+    "name": "【新入生】黒夜 海鳥",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_104430001.png"
+  },
+  {
+    "id": "700230001",
+    "name": "【自動書記】インデックス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_100235001.png"
+  },
+  {
+    "id": "704330001",
+    "name": "【明け色の陽射し】レイヴィニア＝バードウェイ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_704330001.png"
+  },
+  {
+    "id": "101130002",
+    "name": "【アイテム】麦野 沈利",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101130002.png"
+  },
+  {
+    "id": "101930002",
+    "name": "【アイテム】フレンダ＝セイヴェルン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101930002.png"
+  },
+  {
+    "id": "103730001",
+    "name": "【ピンチヒッター】佐天 涙子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_103730001.png"
+  },
+  {
+    "id": "101330005",
+    "name": "【束の間の休息】一方通行",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101330005.png"
+  },
+  {
+    "id": "101730001",
+    "name": "【グループ】結標 淡希",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101730001.png"
+  },
+  {
+    "id": "100530005",
+    "name": "【運動後の一休み】白井 黒子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100530005.png"
+  },
+  {
+    "id": "101320001",
+    "name": "【第一候補】一方通行",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101320001.png"
+  },
+  {
+    "id": "101630001",
+    "name": "【猟犬部隊】木原 数多",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101630001.png"
+  },
+  {
+    "id": "106330001",
+    "name": "【神の右席】前方のヴェント",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_106330001.png"
+  },
+  {
+    "id": "100430005",
+    "name": "【電撃の花嫁】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100430005.png"
+  },
+  {
+    "id": "101030004",
+    "name": "【夢見る女王】食蜂 操祈",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101030004.png"
+  },
+  {
+    "id": "111230001",
+    "name": "【屍喰部隊】ナル",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_111230001.png"
+  },
+  {
+    "id": "111330001",
+    "name": "【屍喰部隊】清ヶ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_111330001.png"
+  },
+  {
+    "id": "106430001",
+    "name": "【神の右席】後方のアックア",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_106430001.png"
+  },
+  {
+    "id": "107930001",
+    "name": "【フルンティング】騎士団長",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_107930001.png"
+  },
+  {
+    "id": "100430006",
+    "name": "【水着の乙女】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100430006.png"
+  },
+  {
+    "id": "104330001",
+    "name": "【真夏の魔術師】レイヴィニア＝バードウェイ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_104330001.png"
+  },
+  {
+    "id": "700130002",
+    "name": "【竜王の顎】上条 当麻",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_700130002.png"
+  },
+  {
+    "id": "100530006",
+    "name": "【サマーレスキュー】白井 黒子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100530006.png"
+  },
+  {
+    "id": "701330001",
+    "name": "【白い翼】一方通行",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_701330001.png"
+  },
+  {
+    "id": "101830002",
+    "name": "【アイテム】絹旗 最愛",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101830002.png"
+  },
+  {
+    "id": "100930001",
+    "name": "【究極の水着モデル】婚后 光子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100930001.png"
+  },
+  {
+    "id": "101030005",
+    "name": "【希望の水着】食蜂 操祈",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101030005.png"
+  },
+  {
+    "id": "101330006",
+    "name": "【浴衣の保護者】一方通行",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101330006.png"
+  },
+  {
+    "id": "102430003",
+    "name": "【バトラー】ステイル＝マグヌス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102430003.png"
+  },
+  {
+    "id": "114330001",
+    "name": "【アークプリースト】アクア",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_114330001.png"
+  },
+  {
+    "id": "114430001",
+    "name": "【アークウィザード】めぐみん",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_114430001.png"
+  },
+  {
+    "id": "114230001",
+    "name": "【冒険者】カズマ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_114230001.png"
+  },
+  {
+    "id": "114530001",
+    "name": "【クルセイダー】ダクネス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_114530001.png"
+  },
+  {
+    "id": "102530005",
+    "name": "【月華の兎】神裂 火織",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102530005.png"
+  },
+  {
+    "id": "103030004",
+    "name": "【月華の兎】五和",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_103030004.png"
+  },
+  {
+    "id": "100430007",
+    "name": "【電撃堕天使】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100430007.png"
+  },
+  {
+    "id": "103730002",
+    "name": "【いたずら夢魔】佐天 涙子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_103730002.png"
+  },
+  {
+    "id": "115130001",
+    "name": "【『炎髪灼眼の討ち手』】シャナ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_115130001.png"
+  },
+  {
+    "id": "115230001",
+    "name": "【『万条の仕手』】ヴィルヘルミナ・カルメル",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_115230001.png"
+  },
+  {
+    "id": "109230001",
+    "name": "【死霊術師】エステル＝ローゼンタール",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_109230001.png"
+  },
+  {
+    "id": "113930001",
+    "name": "【液化人影】警策 看取",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_113930001.png"
+  },
+  {
+    "id": "700430001",
+    "name": "【PHASE-NEXT】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_700430001.png"
+  },
+  {
+    "id": "710230001",
+    "name": "【『原石』】削板 軍覇",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_710230001.png"
+  },
+  {
+    "id": "102130005",
+    "name": "【超電磁投射砲実験装備型】御坂妹",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102130005.png"
+  },
+  {
+    "id": "107030001",
+    "name": "【黒鴉部隊隊長】シャットアウラ＝セクウェンツィア",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_107030001.png"
+  },
+  {
+    "id": "101130003",
+    "name": "【学園都市第四位】麦野 沈利",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101130003.png"
+  },
+  {
+    "id": "106630001",
+    "name": "【守るべきもの】浜面 仕上",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_106630001.png"
+  },
+  {
+    "id": "104330002",
+    "name": "【クリスマスパーティー】レイヴィニア＝バードウェイ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_104330002.png"
+  },
+  {
+    "id": "108030002",
+    "name": "【せくしぃプレゼント】レッサー",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_108030002.png"
+  },
+  {
+    "id": "104230003",
+    "name": "【煌めく聖夜】垣根 帝督",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_104230003.png"
+  },
+  {
+    "id": "111830001",
+    "name": "【スクール】弓箭 猟虎",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_111830001.png"
+  },
+  {
+    "id": "101830003",
+    "name": "【一点突破】絹旗 最愛",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101830003.png"
+  },
+  {
+    "id": "101930003",
+    "name": "【待ち伏せ】フレンダ＝セイヴェルン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101930003.png"
+  },
+  {
+    "id": "100930002",
+    "name": "【華やぐ新春】婚后 光子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100930002.png"
+  },
+  {
+    "id": "103730003",
+    "name": "【無病息災】佐天 涙子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_103730003.png"
+  },
+  {
+    "id": "709430001",
+    "name": "【神の右席】右方のフィアンマ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_709430001.png"
+  },
+  {
+    "id": "710830001",
+    "name": "【魔神】娘々",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_710830001.png"
+  },
+  {
+    "id": "903230001",
+    "name": "【十字教徒】ルチア",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "ショップ限定",
+    "sourceImage": "card_cutin_903230001.png"
+  },
+  {
+    "id": "102530006",
+    "name": "【天草式十字凄教】神裂 火織",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102530006.png"
+  },
+  {
+    "id": "103030005",
+    "name": "【七教七刃】五和",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_103030005.png"
+  },
+  {
+    "id": "501030001",
+    "name": "【派閥の休日】食蜂 操祈",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_501030001.png"
+  },
+  {
+    "id": "103630001",
+    "name": "【正義への憧れ】初春 飾利",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_103630001.png"
+  },
+  {
+    "id": "104130001",
+    "name": "【多才能力】木山 春生",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_104130001.png"
+  },
+  {
+    "id": "100230002",
+    "name": "【ネコ耳メイド】インデックス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100230002.png"
+  },
+  {
+    "id": "100430008",
+    "name": "【ネコ耳メイド】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100430008.png"
+  },
+  {
+    "id": "106430002",
+    "name": "【Flere210】後方のアックア",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_106430002.png"
+  },
+  {
+    "id": "107730001",
+    "name": "【カーテナ＝オリジナル】キャーリサ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_107730001.png"
+  },
+  {
+    "id": "109330001",
+    "name": "【天衣装着】帆風 潤子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_109330001.png"
+  },
+  {
+    "id": "110230001",
+    "name": "【学園都市第七位】削板 軍覇",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_110230001.png"
+  },
+  {
+    "id": "102230001",
+    "name": "【二〇〇〇一号】打ち止め",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102230001.png"
+  },
+  {
+    "id": "108430001",
+    "name": "【立ちはだかる悪意】番外個体",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_108430001.png"
+  },
+  {
+    "id": "100330002",
+    "name": "【バトラー】土御門 元春",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100330002.png"
+  },
+  {
+    "id": "101730002",
+    "name": "【真心ご奉仕】結標 淡希",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101730002.png"
+  },
+  {
+    "id": "103530001",
+    "name": "【今の居場所】固法 美偉",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_103530001.png"
+  },
+  {
+    "id": "109630001",
+    "name": "【鉄の秩序】寮監",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_109630001.png"
+  },
+  {
+    "id": "701330002",
+    "name": "【『絶対偶像進化』計画】一方通行",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_701330002.png"
+  },
+  {
+    "id": "704530002",
+    "name": "【神懸かりアイドル】オティヌス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_704530002.png"
+  },
+  {
+    "id": "100130004",
+    "name": "【『魔神』の採点者】上条 当麻",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100130004.png"
+  },
+  {
+    "id": "100430009",
+    "name": "【傍にいる存在】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100430009.png"
+  },
+  {
+    "id": "110030001",
+    "name": "【『北欧王座』】オッレルス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_110030001.png"
+  },
+  {
+    "id": "112330001",
+    "name": "【『近衛侍女』】シルビア",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_112330001.png"
+  },
+  {
+    "id": "100430010",
+    "name": "【ヨルハ二号B型】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_100430010.png"
+  },
+  {
+    "id": "104030003",
+    "name": "【カイネ】オリアナ＝トムソン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_104030003.png"
+  },
+  {
+    "id": "104530002",
+    "name": "【ヨルハA型二号】オティヌス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_104530002.png"
+  },
+  {
+    "id": "103630002",
+    "name": "【金魚との大一番】初春 飾利",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_103630002.png"
+  },
+  {
+    "id": "103730004",
+    "name": "【穴場スポットにご招待】佐天 涙子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_103730004.png"
+  },
+  {
+    "id": "100730001",
+    "name": "【子ども達を守る信念】黄泉川 愛穂",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100730001.png"
+  },
+  {
+    "id": "100930003",
+    "name": "【空力使い】婚后 光子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100930003.png"
+  },
+  {
+    "id": "101030006",
+    "name": "【小さな奇跡を待つ少女】食蜂 操祈",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101030006.png"
+  },
+  {
+    "id": "117430001",
+    "name": "【心理穿孔】蜜蟻 愛愉",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_117430001.png"
+  },
+  {
+    "id": "102530007",
+    "name": "【大太刀の花嫁】神裂 火織",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102530007.png"
+  },
+  {
+    "id": "103030006",
+    "name": "【渚のブライド】五和",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_103030006.png"
+  },
+  {
+    "id": "114130001",
+    "name": "【死体職人】ショチトル",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_114130001.png"
+  },
+  {
+    "id": "115330001",
+    "name": "【『原典』の力】エツァリ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_115330001.png"
+  },
+  {
+    "id": "101430001",
+    "name": "【神秘の否定者】アレイスター＝クロウリー",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101430001.png"
+  },
+  {
+    "id": "700430002",
+    "name": "【月夜の妖花】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_700430002.png"
+  },
+  {
+    "id": "701030001",
+    "name": "【蜂蜜色の少女】食蜂 操祈",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_701030001.png"
+  },
+  {
+    "id": "510630001",
+    "name": "【魔神】僧正",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_510630001.png"
+  },
+  {
+    "id": "115530001",
+    "name": "【絶滅犯】去鳴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_115530001.png"
+  },
+  {
+    "id": "710330001",
+    "name": "【理想送り】上里 翔流",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_710330001.png"
+  },
+  {
+    "id": "710730001",
+    "name": "【魔神】ネフテュス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_710730001.png"
+  },
+  {
+    "id": "912830001",
+    "name": "【MAR付属研究所所長】テレスティーナ＝木原＝ライフライン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "ショップ限定",
+    "sourceImage": "card_cutin_912830001.png"
+  },
+  {
+    "id": "100230003",
+    "name": "【チアリングシスター】インデックス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100230003.png"
+  },
+  {
+    "id": "109530001",
+    "name": "【神の右席】左方のテッラ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_109530001.png"
+  },
+  {
+    "id": "104030004",
+    "name": "【トワイライトメモリー】オリアナ＝トムソン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_104030004.png"
+  },
+  {
+    "id": "108030003",
+    "name": "【せくしぃマーメイド】レッサー",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_108030003.png"
+  },
+  {
+    "id": "106430003",
+    "name": "【大海の守護者】後方のアックア",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_106430003.png"
+  },
+  {
+    "id": "107730002",
+    "name": "【浜辺の太陽】キャーリサ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_107730002.png"
+  },
+  {
+    "id": "101530001",
+    "name": "【ヒューズ＝カザキリ】風斬 氷華",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_101530001.png"
+  },
+  {
+    "id": "152630001",
+    "name": "【大天使】神の力",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_152630001.png"
+  },
+  {
+    "id": "103730005",
+    "name": "【女神姿の売り子】佐天 涙子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_103730005.png"
+  },
+  {
+    "id": "118030001",
+    "name": "【未完の少年】ベル・クラネル",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_118030001.png"
+  },
+  {
+    "id": "118230001",
+    "name": "【剣姫】アイズ・ヴァレンシュタイン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_118230001.png"
+  },
+  {
+    "id": "101130004",
+    "name": "【艶浴衣】麦野 沈利",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101130004.png"
+  },
+  {
+    "id": "101830004",
+    "name": "【湯涼み】絹旗 最愛",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101830004.png"
+  },
+  {
+    "id": "102830001",
+    "name": "【暗号解読の専門家】オルソラ＝アクィナス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102830001.png"
+  },
+  {
+    "id": "103430001",
+    "name": "【双翼の大天使】ミーシャ＝クロイツェフ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_103430001.png"
+  },
+  {
+    "id": "102530008",
+    "name": "【凛々華麗】神裂 火織",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102530008.png"
+  },
+  {
+    "id": "104330003",
+    "name": "【サディスティックメイド】レイヴィニア＝バードウェイ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_104330003.png"
+  },
+  {
+    "id": "118730001",
+    "name": "【魔物を統べる者】リムル＝テンペスト",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_118730001.png"
+  },
+  {
+    "id": "118830001",
+    "name": "【破壊の暴君】ミリム・ナーヴァ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_118830001.png"
+  },
+  {
+    "id": "107630001",
+    "name": "【依頼遂行】心理定規",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_107630001.png"
+  },
+  {
+    "id": "111630001",
+    "name": "【魂の不在】ドッペルゲンガー",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_111630001.png"
+  },
+  {
+    "id": "700530001",
+    "name": "【確かな絆】白井 黒子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_700530001.png"
+  },
+  {
+    "id": "703730001",
+    "name": "【超電磁砲】佐天 涙子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_703730001.png"
+  },
+  {
+    "id": "102930002",
+    "name": "【奇術師】建宮 斎字",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102930002.png"
+  },
+  {
+    "id": "103030007",
+    "name": "【カジノディーラー】五和",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_103030007.png"
+  },
+  {
+    "id": "100930004",
+    "name": "【トンデモ発射場ガール】婚后 光子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100930004.png"
+  },
+  {
+    "id": "109330002",
+    "name": "【能力の本質】帆風 潤子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_109330002.png"
+  },
+  {
+    "id": "101030007",
+    "name": "【聖夜の計画】食蜂 操祈",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101030007.png"
+  },
+  {
+    "id": "110230002",
+    "name": "【根性サンタ】削板 軍覇",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_110230002.png"
+  },
+  {
+    "id": "101330007",
+    "name": "【ヴィラン・サンタ】一方通行",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101330007.png"
+  },
+  {
+    "id": "101730003",
+    "name": "【聖夜の座標移動】結標 淡希",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101730003.png"
+  },
+  {
+    "id": "102130006",
+    "name": "【鋼鉄破り】御坂妹",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_102130006.png"
+  },
+  {
+    "id": "103030008",
+    "name": "【海軍用船上槍】五和",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_103030008.png"
+  },
+  {
+    "id": "102430004",
+    "name": "【傾奇者】ステイル＝マグヌス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102430004.png"
+  },
+  {
+    "id": "700230002",
+    "name": "【修道巫女】インデックス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_700230002.png"
+  },
+  {
+    "id": "702530001",
+    "name": "【聖人巫女】神裂 火織",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_702530001.png"
+  },
+  {
+    "id": "101830005",
+    "name": "【振袖日和】絹旗 最愛",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101830005.png"
+  },
+  {
+    "id": "101930004",
+    "name": "【和傘小町】フレンダ＝セイヴェルン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101930004.png"
+  },
+  {
+    "id": "919530001",
+    "name": "【ゲリラライブ】扶桑 彩愛",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "ショップ限定",
+    "sourceImage": "card_cutin_919530001.png"
+  },
+  {
+    "id": "105330001",
+    "name": "【戦う決意】湾内 絹保",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_105330001.png"
+  },
+  {
+    "id": "104030005",
+    "name": "【愛の運び屋】オリアナ＝トムソン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_104030005.png"
+  },
+  {
+    "id": "108030004",
+    "name": "【めるてぃすいーつ】レッサー",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_108030004.png"
+  },
+  {
+    "id": "119630001",
+    "name": "【失格紋の少年】マティアス＝ヒルデスハイマー",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_119630001.png"
+  },
+  {
+    "id": "119730001",
+    "name": "【超天災級の少女】イリス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_119730001.png"
+  },
+  {
+    "id": "101030008",
+    "name": "【クイーンウサ耳メイド】食蜂 操祈",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101030008.png"
+  },
+  {
+    "id": "100230004",
+    "name": "【パティシエの探求心】インデックス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100230004.png"
+  },
+  {
+    "id": "103030009",
+    "name": "【助っ人パティシエ】五和",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_103030009.png"
+  },
+  {
+    "id": "102130007",
+    "name": "【ドクターS】御坂妹",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102130007.png"
+  },
+  {
+    "id": "102230002",
+    "name": "【万全介護】打ち止め",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102230002.png"
+  },
+  {
+    "id": "704230001",
+    "name": "【復活の未元物質】垣根 帝督",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_704230001.png"
+  },
+  {
+    "id": "709930001",
+    "name": "【全能神】トール",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_709930001.png"
+  },
+  {
+    "id": "106330002",
+    "name": "【『神の火』】前方のヴェント",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_106330002.png"
+  },
+  {
+    "id": "109430001",
+    "name": "【『神の如き者』】右方のフィアンマ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_109430001.png"
+  },
+  {
+    "id": "105530001",
+    "name": "【挑む決意】泡浮 万彬",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_105530001.png"
+  },
+  {
+    "id": "102530009",
+    "name": "【狼メイド】神裂 火織",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102530009.png"
+  },
+  {
+    "id": "103730006",
+    "name": "【才気煥発】佐天 涙子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_103730006.png"
+  },
+  {
+    "id": "107630002",
+    "name": "【ブライドライズ】心理定規",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_107630002.png"
+  },
+  {
+    "id": "104330004",
+    "name": "【ブライドサンシャイン】レイヴィニア＝バードウェイ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_104330004.png"
+  },
+  {
+    "id": "103830001",
+    "name": "【叛逆の錬金術師】アウレオルス＝イザード",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_103830001.png"
+  },
+  {
+    "id": "700130003",
+    "name": "【竜王の顎・八竜】上条 当麻",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超赤",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_700130003.png"
+  },
+  {
+    "id": "700430003",
+    "name": "【対魔術式駆動鎧改良版】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_700430003.png"
+  },
+  {
+    "id": "701330003",
+    "name": "【ハンドカフス】一方通行",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_701330003.png"
+  },
+  {
+    "id": "720330001",
+    "name": "【数ある可能性の一つ】アレイスター＝クロウリー（少女）",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超紫",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_720330001.png"
+  },
+  {
+    "id": "100330003",
+    "name": "【Fallere825】土御門 元春",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100330003.png"
+  },
+  {
+    "id": "101330009",
+    "name": "【クリムゾン・プリンス】一方通行",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_101330009.png"
+  },
+  {
+    "id": "121230001",
+    "name": "【魔法科第一高校生】司波 深雪",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超緑",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_121230001.png"
+  },
+  {
+    "id": "952730001",
+    "name": "【聖守護天使】エイワス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超青",
+    "limit": "ショップ限定",
+    "sourceImage": "card_cutin_952730001.png"
+  },
+  {
+    "id": "100430011",
+    "name": "【魔法科第一高校生】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_100430011.png"
+  },
+  {
+    "id": "121130001",
+    "name": "【魔法科第一高校生】司波 達也",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超黄",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_121130001.png"
+  },
+  {
+    "id": "100530007",
+    "name": "【治安維持】白井 黒子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_100530007.png"
+  },
+  {
+    "id": "121930001",
+    "name": "【首なしライダー】セルティ・ストゥルルソン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超青",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_121930001.png"
+  },
+  {
+    "id": "122030001",
+    "name": "【池袋最強の男】平和島 静雄",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_122030001.png"
+  },
+  {
+    "id": "101830006",
+    "name": "【暗部のくノ一】絹旗 最愛",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101830006.png"
+  },
+  {
+    "id": "701130001",
+    "name": "【『体晶』】麦野 沈利",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超緑",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_701130001.png"
+  },
+  {
+    "id": "104530003",
+    "name": "【大海の魔神】オティヌス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_104530003.png"
+  },
+  {
+    "id": "710830002",
+    "name": "【魔神のバカンス】娘々",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_710830002.png"
+  },
+  {
+    "id": "713230001",
+    "name": "【黒猫祭祀秘録】ミナ＝メイザース",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超青",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_713230001.png"
+  },
+  {
+    "id": "100430012",
+    "name": "【治安役】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100430012.png"
+  },
+  {
+    "id": "102130008",
+    "name": "【シスターズ・コップ】御坂妹",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102130008.png"
+  },
+  {
+    "id": "116830001",
+    "name": "【念動使い】誉望 万化",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_116830001.png"
+  },
+  {
+    "id": "100530008",
+    "name": "【ラブビースト】白井 黒子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100530008.png"
+  },
+  {
+    "id": "101030009",
+    "name": "【クイーンオブパイレーツ】食蜂 操祈",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101030009.png"
+  },
+  {
+    "id": "100430013",
+    "name": "【『鋼』の錬金術師】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_100430013.png"
+  },
+  {
+    "id": "104530004",
+    "name": "【『焰』の錬金術師】オティヌス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_104530004.png"
+  },
+  {
+    "id": "100930005",
+    "name": "【令嬢サンタ】婚后 光子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100930005.png"
+  },
+  {
+    "id": "103730007",
+    "name": "【トナカイスケーター】佐天 涙子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_103730007.png"
+  },
+  {
+    "id": "102530010",
+    "name": "【浴衣弁天】神裂 火織",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102530010.png"
+  },
+  {
+    "id": "103030010",
+    "name": "【湯上り撫子】五和",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_103030010.png"
+  },
+  {
+    "id": "100230005",
+    "name": "【飽食祈願】インデックス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100230005.png"
+  },
+  {
+    "id": "702830001",
+    "name": "【『神威混淆』】オルソラ＝アクィナス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_702830001.png"
+  },
+  {
+    "id": "724430001",
+    "name": "【『予測不能の状況』】ダイアン＝フォーチュン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超黄",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_724430001.png"
+  },
+  {
+    "id": "706630001",
+    "name": "【自身の手で】浜面 仕上",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超紫",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_706630001.png"
+  },
+  {
+    "id": "101030010",
+    "name": "【告白】食蜂 操祈",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101030010.png"
+  },
+  {
+    "id": "109230002",
+    "name": "【恩返しバレンタイン】エステル＝ローゼンタール",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_109230002.png"
+  },
+  {
+    "id": "101030011",
+    "name": "【幸せなリベンジ】食蜂 操祈",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101030011.png"
+  },
+  {
+    "id": "724530001",
+    "name": "【底なしの闇】木原 唯一",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超黄",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_724530001.png"
+  },
+  {
+    "id": "110530001",
+    "name": "【馳せる願い】烏丸 府蘭",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_110530001.png"
+  },
+  {
+    "id": "100430014",
+    "name": "【電撃アイドル】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100430014.png"
+  },
+  {
+    "id": "704330002",
+    "name": "【明け色のアイドル】レイヴィニア＝バードウェイ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超紫",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_704330002.png"
+  },
+  {
+    "id": "102530011",
+    "name": "【部活少女】神裂 火織",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102530011.png"
+  },
+  {
+    "id": "103030011",
+    "name": "【図書委員】五和",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_103030011.png"
+  },
+  {
+    "id": "101030012",
+    "name": "【お気楽トレーニング】食蜂 操祈",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101030012.png"
+  },
+  {
+    "id": "110230003",
+    "name": "【特訓】削板 軍覇",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_110230003.png"
+  },
+  {
+    "id": "101330010",
+    "name": "【慣れない平和】一方通行",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101330010.png"
+  },
+  {
+    "id": "102130009",
+    "name": "【気分上々】御坂妹",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102130009.png"
+  },
+  {
+    "id": "104530005",
+    "name": "【ヨルハ二号B型】オティヌス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超緑",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_104530005.png"
+  },
+  {
+    "id": "100430015",
+    "name": "【アラビアンナイト】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100430015.png"
+  },
+  {
+    "id": "100530009",
+    "name": "【アラビアンナイト】白井 黒子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100530009.png"
+  },
+  {
+    "id": "101130005",
+    "name": "【共棲の花嫁】麦野 沈利",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101130005.png"
+  },
+  {
+    "id": "101930005",
+    "name": "【楽天的花嫁】フレンダ＝セイヴェルン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101930005.png"
+  },
+  {
+    "id": "124120001",
+    "name": "【死神】サーティーンデス",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "記念",
+    "sourceImage": "card_cutin_124120001.png"
+  },
+  {
+    "id": "104530006",
+    "name": "【黄昏の女神】オティヌス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_104530006.png"
+  },
+  {
+    "id": "700130004",
+    "name": "【決着の右腕】上条 当麻",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_700130004.png"
+  },
+  {
+    "id": "723430001",
+    "name": "【深淵の支配者】コロンゾン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超青",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_723430001.png"
+  },
+  {
+    "id": "700230003",
+    "name": "【超機動少女カナミン】インデックス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_700230003.png"
+  },
+  {
+    "id": "704330003",
+    "name": "【『魔神』に届く力】レイヴィニア＝バードウェイ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超赤",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_704330003.png"
+  },
+  {
+    "id": "910130001",
+    "name": "【報復の暗殺者】ステファニー＝ゴージャスパレス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超赤",
+    "limit": "ショップ限定",
+    "sourceImage": "card_cutin_910130001.png"
+  },
+  {
+    "id": "100430016",
+    "name": "【ビューティースマイル】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100430016.png"
+  },
+  {
+    "id": "101130006",
+    "name": "【サマーモナーク】麦野 沈利",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101130006.png"
+  },
+  {
+    "id": "103730008",
+    "name": "【夏満喫ガール】佐天 涙子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_103730008.png"
+  },
+  {
+    "id": "108230001",
+    "name": "【『知の角杯』】ベイロープ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_108230001.png"
+  },
+  {
+    "id": "104230004",
+    "name": "【暗闇の風雅】垣根 帝督",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_104230004.png"
+  },
+  {
+    "id": "111230002",
+    "name": "【夏休みの暗部組織】ナル",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_111230002.png"
+  },
+  {
+    "id": "104030006",
+    "name": "【月夜の秘匿】オリアナ＝トムソン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_104030006.png"
+  },
+  {
+    "id": "104330005",
+    "name": "【純白バニー様】レイヴィニア＝バードウェイ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_104330005.png"
+  },
+  {
+    "id": "724130001",
+    "name": "【死を司る魔術師】サーティーンデス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超青",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_724130001.png"
+  },
+  {
+    "id": "724430002",
+    "name": "【黒猫の魔女】ダイアン＝フォーチュン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_724430002.png"
+  },
+  {
+    "id": "100130005",
+    "name": "【異界型傭兵アーサー】上条 当麻",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超赤",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_100130005.png"
+  },
+  {
+    "id": "100430017",
+    "name": "【異界型アーサー技巧の場】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_100430017.png"
+  },
+  {
+    "id": "101930006",
+    "name": "【真祖】フレンダ＝セイヴェルン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_101930006.png"
+  },
+  {
+    "id": "125730001",
+    "name": "【死の支配者】アインズ・ウール・ゴウン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_125730001.png"
+  },
+  {
+    "id": "101830007",
+    "name": "【国堕とし】絹旗 最愛",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超黄",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_101830007.png"
+  },
+  {
+    "id": "125830001",
+    "name": "【慈悲深き純白の悪魔】アルベド",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_125830001.png"
+  },
+  {
+    "id": "100430018",
+    "name": "【荘厳な調べ】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100430018.png"
+  },
+  {
+    "id": "102230003",
+    "name": "【両手の中のクリスマス】打ち止め",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102230003.png"
+  },
+  {
+    "id": "102530012",
+    "name": "【聖夜の付添人】神裂 火織",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102530012.png"
+  },
+  {
+    "id": "102830002",
+    "name": "【サンタのお仕事】オルソラ＝アクィナス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102830002.png"
+  },
+  {
+    "id": "124220001",
+    "name": "【Re：死神】シティマカーブル",
+    "stars": 2,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "記念",
+    "sourceImage": "card_cutin_124220001.png"
+  },
+  {
+    "id": "102530013",
+    "name": "【鋼鉄の羽の霊装】神裂 火織",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_102530013.png"
+  },
+  {
+    "id": "701330004",
+    "name": "【人造の樹】一方通行",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超黄",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_701330004.png"
+  },
+  {
+    "id": "725330001",
+    "name": "【邪悪の樹】クリファパズル５４５",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超緑",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_725330001.png"
+  },
+  {
+    "id": "724230001",
+    "name": "【死を退けるもの】シティマカーブル",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超紫",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_724230001.png"
+  },
+  {
+    "id": "724630001",
+    "name": "【ベルシ】木原 加群",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_724630001.png"
+  },
+  {
+    "id": "104530007",
+    "name": "【悪魔殲滅者】オティヌス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_104530007.png"
+  },
+  {
+    "id": "126930001",
+    "name": "【愛に生きる悪魔】キサラ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超青",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_126930001.png"
+  },
+  {
+    "id": "104330006",
+    "name": "【悪魔のような魔術師】レイヴィニア＝バードウェイ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_104330006.png"
+  },
+  {
+    "id": "127130001",
+    "name": "【災害級の兄想い】緒方 カンナ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超赤",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_127130001.png"
+  },
+  {
+    "id": "100430019",
+    "name": "【同じ道を進む決意】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100430019.png"
+  },
+  {
+    "id": "101330011",
+    "name": "【白い怪物】一方通行",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101330011.png"
+  },
+  {
+    "id": "100530010",
+    "name": "【スウィートモーメント】白井 黒子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100530010.png"
+  },
+  {
+    "id": "112030001",
+    "name": "【夢の舞踏会】サンドリヨン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_112030001.png"
+  },
+  {
+    "id": "100130006",
+    "name": "【無能力者アイドル】上条 当麻",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100130006.png"
+  },
+  {
+    "id": "720330002",
+    "name": "【アイドルの可能性】アレイスター＝クロウリー（少女）",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_720330002.png"
+  },
+  {
+    "id": "728830001",
+    "name": "【＃０２８】恋査",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超青",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_728830001.png"
+  },
+  {
+    "id": "104230005",
+    "name": "【超能力者の価値】垣根 帝督",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_104230005.png"
+  },
+  {
+    "id": "124130001",
+    "name": "【グリムディーヴァ】サーティーンデス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_124130001.png"
+  },
+  {
+    "id": "124230001",
+    "name": "【リザレクションスター】シティマカーブル",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_124230001.png"
+  },
+  {
+    "id": "701030002",
+    "name": "【蜂蜜色のアイドル】食蜂 操祈",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超黄",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_701030002.png"
+  },
+  {
+    "id": "129230001",
+    "name": "【拒絶】一方通行（幼少期）",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_129230001.png"
+  },
+  {
+    "id": "109230003",
+    "name": "【フラワリングブライド】エステル＝ローゼンタール",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_109230003.png"
+  },
+  {
+    "id": "100430020",
+    "name": "【花鳥風月】御坂 美琴",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超黄",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_100430020.png"
+  },
+  {
+    "id": "104530008",
+    "name": "【闇に堕ちる】オティヌス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_104530008.png"
+  },
+  {
+    "id": "729730001",
+    "name": "【『黄金』の頂点】マグレガー＝メイザース",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超紫",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_729730001.png"
+  },
+  {
+    "id": "780030000",
+    "name": "【科学×魔術の時】上条 当麻&インデックス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超赤",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_180030001.png"
+  },
+  {
+    "id": "701030003",
+    "name": "【ＦＯＭＯ】食蜂 操祈",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超青",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_701030003.png"
+  },
+  {
+    "id": "780130000",
+    "name": "【最強の絆】御坂 美琴&白井 黒子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超緑",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_180130001.png"
+  },
+  {
+    "id": "110230004",
+    "name": "【必然的なトラブル遭遇】削板 軍覇",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_110230004.png"
+  },
+  {
+    "id": "103730009",
+    "name": "【魔法科第一高校生】佐天 涙子",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超緑",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_103730009.png"
+  },
+  {
+    "id": "121230002",
+    "name": "【常盤台のスノークイーン】司波 深雪",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超黄",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_121230002.png"
+  },
+  {
+    "id": "100230006",
+    "name": "【屋台めぐり】インデックス",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_100230006.png"
+  },
+  {
+    "id": "104330007",
+    "name": "【スターマイン】レイヴィニア＝バードウェイ",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_104330007.png"
+  },
+  {
+    "id": "101830008",
+    "name": "【ビューティフル・アーマー】絹旗 最愛",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101830008.png"
+  },
+  {
+    "id": "101930007",
+    "name": "【夏満喫レディ】フレンダ＝セイヴェルン",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_101930007.png"
+  },
+  {
+    "id": "780230000",
+    "name": "【最強と最弱】一方通行&上条 当麻",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超青",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_780230000.png"
+  },
+  {
+    "id": "717930001",
+    "name": "【対魔術式駆動鎧】木原 脳幹",
+    "stars": 3,
+    "type": "battle",
+    "attribute": "超黄",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_717930001.png"
+  },
+  {
+    "id": "200212001",
+    "name": "【シスター】インデックス",
+    "stars": 1,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200212001.png"
+  },
+  {
+    "id": "200222001",
+    "name": "【居候】インデックス",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200222001.png"
+  },
+  {
+    "id": "200223002",
+    "name": "【完全記憶能力】インデックス",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200223002.png"
+  },
+  {
+    "id": "200431001",
+    "name": "【学園都市第三位】御坂 美琴",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "記念",
+    "sourceImage": "card_cutin_200431001.png"
+  },
+  {
+    "id": "200611001",
+    "name": "【教師】月詠 小萌",
+    "stars": 1,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200611001.png"
+  },
+  {
+    "id": "200622001",
+    "name": "【幼女先生】月詠 小萌",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200622001.png"
+  },
+  {
+    "id": "200711001",
+    "name": "【体育教師】黄泉川 愛穂",
+    "stars": 1,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200711001.png"
+  },
+  {
+    "id": "200723001",
+    "name": "【警備員】黄泉川 愛穂",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200723001.png"
+  },
+  {
+    "id": "200821001",
+    "name": "【学生】吹寄 制理",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200821001.png"
+  },
+  {
+    "id": "201424001",
+    "name": "【理事長】アレイスター＝クロウリー",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_201424001.png"
+  },
+  {
+    "id": "201522001",
+    "name": "【虚数学区の鍵】風斬 氷華",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_201522001.png"
+  },
+  {
+    "id": "202023001",
+    "name": "【能力追跡】滝壺 理后",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202023001.png"
+  },
+  {
+    "id": "202212001",
+    "name": "【量産型クローン】打ち止め",
+    "stars": 1,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202212001.png"
+  },
+  {
+    "id": "202222001",
+    "name": "【最終信号】打ち止め",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202222001.png"
+  },
+  {
+    "id": "202232001",
+    "name": "【天真爛漫】打ち止め",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202232001.png"
+  },
+  {
+    "id": "202313001",
+    "name": "【自称魔法使い】姫神 秋沙",
+    "stars": 1,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202313001.png"
+  },
+  {
+    "id": "202321001",
+    "name": "【吸血殺し】姫神 秋沙",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202321001.png"
+  },
+  {
+    "id": "202322002",
+    "name": "【体操服】姫神 秋沙",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202322002.png"
+  },
+  {
+    "id": "202623001",
+    "name": "【最大主教】ローラ＝スチュアート",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202623001.png"
+  },
+  {
+    "id": "202813001",
+    "name": "【シスター】オルソラ＝アクィナス",
+    "stars": 1,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202813001.png"
+  },
+  {
+    "id": "202823001",
+    "name": "【聖職者】オルソラ＝アクィナス",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202823001.png"
+  },
+  {
+    "id": "203515001",
+    "name": "【学生】固法 美偉",
+    "stars": 1,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203515001.png"
+  },
+  {
+    "id": "203612001",
+    "name": "【学生】初春 飾利",
+    "stars": 1,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203612001.png"
+  },
+  {
+    "id": "203621001",
+    "name": "【風紀委員】初春 飾利",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203621001.png"
+  },
+  {
+    "id": "203633001",
+    "name": "【天才ハッカー】初春 飾利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203633001.png"
+  },
+  {
+    "id": "203713001",
+    "name": "【学生】佐天 涙子",
+    "stars": 1,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203713001.png"
+  },
+  {
+    "id": "203721001",
+    "name": "【友達思い】佐天 涙子",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203721001.png"
+  },
+  {
+    "id": "203733001",
+    "name": "【能力者への憧れ】佐天 涙子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203733001.png"
+  },
+  {
+    "id": "203913001",
+    "name": "【見習いメイド】土御門 舞夏",
+    "stars": 1,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203913001.png"
+  },
+  {
+    "id": "204714001",
+    "name": "【天才医者】カエル顔の医者",
+    "stars": 1,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_204714001.png"
+  },
+  {
+    "id": "204911001",
+    "name": "【上条当麻の父】上条 刀夜",
+    "stars": 1,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_204911001.png"
+  },
+  {
+    "id": "205011001",
+    "name": "【上条当麻の母】上条 詩菜",
+    "stars": 1,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_205011001.png"
+  },
+  {
+    "id": "205312001",
+    "name": "【常盤台中学生】湾内 絹保",
+    "stars": 1,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_205312001.png"
+  },
+  {
+    "id": "205412001",
+    "name": "【研究者】芳川 桔梗",
+    "stars": 1,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_205412001.png"
+  },
+  {
+    "id": "205511001",
+    "name": "【常盤台中学生】泡浮 万彬",
+    "stars": 1,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_205511001.png"
+  },
+  {
+    "id": "206933001",
+    "name": "【奇蹟の歌姫】鳴護 アリサ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_206933001.png"
+  },
+  {
+    "id": "207634001",
+    "name": "【スクール】心理定規",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_207634001.png"
+  },
+  {
+    "id": "207732001",
+    "name": "【英国第二王女】キャーリサ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_207732001.png"
+  },
+  {
+    "id": "207832001",
+    "name": "【英国第三王女】ヴィリアン",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_207832001.png"
+  },
+  {
+    "id": "207935001",
+    "name": "【騎士派】騎士団長",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_207935001.png"
+  },
+  {
+    "id": "208031001",
+    "name": "【新たなる光】レッサー",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_208031001.png"
+  },
+  {
+    "id": "208133001",
+    "name": "【新たなる光】フロリス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_208133001.png"
+  },
+  {
+    "id": "208231001",
+    "name": "【新たなる光】ベイロープ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_208231001.png"
+  },
+  {
+    "id": "208331001",
+    "name": "【新たなる光】ランシス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_208331001.png"
+  },
+  {
+    "id": "208432001",
+    "name": "【第三次製造計画】番外個体",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_208432001.png"
+  },
+  {
+    "id": "208625001",
+    "name": "【シスター】リドヴィア＝ロレンツェッティ",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_208625001.png"
+  },
+  {
+    "id": "600230001",
+    "name": "【常夏楽園】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600230001.png"
+  },
+  {
+    "id": "602230001",
+    "name": "【海中散歩】打ち止め",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602230001.png"
+  },
+  {
+    "id": "602030001",
+    "name": "【ナイトプール】滝壺 理后",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602030001.png"
+  },
+  {
+    "id": "203730002",
+    "name": "【夜空の大輪】佐天 涙子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_203730002.png"
+  },
+  {
+    "id": "603630001",
+    "name": "【夏夜の花火】初春 飾利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_603630001.png"
+  },
+  {
+    "id": "209230001",
+    "name": "【二十三代目当主】エステル＝ローゼンタール",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_209230001.png"
+  },
+  {
+    "id": "609830001",
+    "name": "【疑似魂魄】禍斗",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_609830001.png"
+  },
+  {
+    "id": "602830001",
+    "name": "【仮装パーティー】オルソラ＝アクィナス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602830001.png"
+  },
+  {
+    "id": "200230002",
+    "name": "【猫耳シスター】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200230002.png"
+  },
+  {
+    "id": "602230002",
+    "name": "【パンプキンガール】打ち止め",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602230002.png"
+  },
+  {
+    "id": "608530001",
+    "name": "【黒小人の一人】マリアン＝スリンゲナイヤー",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_608530001.png"
+  },
+  {
+    "id": "602630001",
+    "name": "【戯れメイド】ローラ＝スチュアート",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602630001.png"
+  },
+  {
+    "id": "200230003",
+    "name": "【雪の女王】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200230003.png"
+  },
+  {
+    "id": "602830002",
+    "name": "【聖夜の料理番】オルソラ＝アクィナス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602830002.png"
+  },
+  {
+    "id": "200430002",
+    "name": "【慶賀光春】御坂 美琴",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200430002.png"
+  },
+  {
+    "id": "602230003",
+    "name": "【初詣参拝】打ち止め",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602230003.png"
+  },
+  {
+    "id": "610030001",
+    "name": "【魔神になりそこねた男】オッレルス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_610030001.png"
+  },
+  {
+    "id": "600530001",
+    "name": "【誘惑のバレンタイン】白井 黒子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600530001.png"
+  },
+  {
+    "id": "203220001",
+    "name": "【囚人服】ルチア",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203220001.png"
+  },
+  {
+    "id": "203320001",
+    "name": "【囚人服】アンジェレネ",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203320001.png"
+  },
+  {
+    "id": "205330001",
+    "name": "【水流操作】湾内 絹保",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_205330001.png"
+  },
+  {
+    "id": "605530001",
+    "name": "【流体反発】泡浮 万彬",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_605530001.png"
+  },
+  {
+    "id": "606630001",
+    "name": "【アイテムの雑用係】浜面 仕上",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_606630001.png"
+  },
+  {
+    "id": "200930001",
+    "name": "【体操服の令嬢】婚后 光子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200930001.png"
+  },
+  {
+    "id": "204530001",
+    "name": "【絶体絶命】オティヌス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_204530001.png"
+  },
+  {
+    "id": "600130001",
+    "name": "【雪原の攻防】上条 当麻",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600130001.png"
+  },
+  {
+    "id": "1001530001",
+    "name": "【コスプレ少女】風斬 氷華",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "ショップ限定",
+    "sourceImage": "card_cutin_1001530001.png"
+  },
+  {
+    "id": "202230002",
+    "name": "【猫耳】打ち止め",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202230002.png"
+  },
+  {
+    "id": "652530001",
+    "name": "【例の】自動販売機",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_652530001.png"
+  },
+  {
+    "id": "608430001",
+    "name": "【アオザイ】番外個体",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_608430001.png"
+  },
+  {
+    "id": "602030002",
+    "name": "【アイテム】滝壺 理后",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602030002.png"
+  },
+  {
+    "id": "209330001",
+    "name": "【女王の側近】帆風 潤子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_209330001.png"
+  },
+  {
+    "id": "200330001",
+    "name": "【反撃開始】土御門 元春",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200330001.png"
+  },
+  {
+    "id": "602230004",
+    "name": "【ファミレス大好き】打ち止め",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602230004.png"
+  },
+  {
+    "id": "200430003",
+    "name": "【最強への挑戦】御坂 美琴",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200430003.png"
+  },
+  {
+    "id": "203730003",
+    "name": "【フォークダンス】佐天 涙子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203730003.png"
+  },
+  {
+    "id": "603630002",
+    "name": "【奮闘少女】初春 飾利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_603630002.png"
+  },
+  {
+    "id": "200230004",
+    "name": "【ブライダル】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200230004.png"
+  },
+  {
+    "id": "602130001",
+    "name": "【噂の勝ち組】御坂妹",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602130001.png"
+  },
+  {
+    "id": "211430001",
+    "name": "【屍喰部隊】薬丸",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_211430001.png"
+  },
+  {
+    "id": "611130001",
+    "name": "【屍喰部隊】リーダー",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_611130001.png"
+  },
+  {
+    "id": "800430001",
+    "name": "【対魔術式駆動鎧】御坂 美琴",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_800430001.png"
+  },
+  {
+    "id": "208730001",
+    "name": "【とある魔術の】禁書目録たん",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "記念",
+    "sourceImage": "card_cutin_208730001.png"
+  },
+  {
+    "id": "607630001",
+    "name": "【暗部の夏季休暇】心理定規",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_607630001.png"
+  },
+  {
+    "id": "806630001",
+    "name": "【HsSSV-01】浜面 仕上",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_806630001.png"
+  },
+  {
+    "id": "206520001",
+    "name": "【武装無能力者集団】駒場 利徳",
+    "stars": 2,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_206520001.png"
+  },
+  {
+    "id": "211630001",
+    "name": "【魂の憑依】ドッペルゲンガー",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_211630001.png"
+  },
+  {
+    "id": "611530001",
+    "name": "【研究者】操歯 涼子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_611530001.png"
+  },
+  {
+    "id": "203530001",
+    "name": "【水着の風紀委員】固法 美偉",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_203530001.png"
+  },
+  {
+    "id": "609330001",
+    "name": "【至福の時間】帆風 潤子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_609330001.png"
+  },
+  {
+    "id": "202230003",
+    "name": "【浴衣のスナイパー】打ち止め",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_202230003.png"
+  },
+  {
+    "id": "608430002",
+    "name": "【花火大会】番外個体",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_608430002.png"
+  },
+  {
+    "id": "202730001",
+    "name": "【休日の女子寮】シェリー＝クロムウェル",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202730001.png"
+  },
+  {
+    "id": "203230001",
+    "name": "【堕天使エロメイド】ルチア",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203230001.png"
+  },
+  {
+    "id": "602830003",
+    "name": "【ピュアネコ耳メイド】オルソラ＝アクィナス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602830003.png"
+  },
+  {
+    "id": "214930001",
+    "name": "【紅魔族の族長の娘】ゆんゆん",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_214930001.png"
+  },
+  {
+    "id": "614230001",
+    "name": "【外道】カズマ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_614230001.png"
+  },
+  {
+    "id": "214730001",
+    "name": "【リッチー】ウィズ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_214730001.png"
+  },
+  {
+    "id": "614630001",
+    "name": "【銀髪の盗賊】クリス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_614630001.png"
+  },
+  {
+    "id": "200230005",
+    "name": "【月華の兎】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200230005.png"
+  },
+  {
+    "id": "200530002",
+    "name": "【親身な介護】白井 黒子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200530002.png"
+  },
+  {
+    "id": "603630003",
+    "name": "【純白天使】初春 飾利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_603630003.png"
+  },
+  {
+    "id": "215730001",
+    "name": "【『弔詞の詠み手』】マージョリー・ドー",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_215730001.png"
+  },
+  {
+    "id": "215830001",
+    "name": "【“頂の座”】ヘカテー",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_215830001.png"
+  },
+  {
+    "id": "615630001",
+    "name": "【“ミステス”】坂井 悠二",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_615630001.png"
+  },
+  {
+    "id": "209830001",
+    "name": "【薔薇渓谷家参式】禍斗",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_209830001.png"
+  },
+  {
+    "id": "201030001",
+    "name": "【才人工房】食蜂 操祈",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_201030001.png"
+  },
+  {
+    "id": "802530001",
+    "name": "【清教派】神裂 火織",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_802530001.png"
+  },
+  {
+    "id": "605730001",
+    "name": "【『絶対能力進化』計画】木原 幻生",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_605730001.png"
+  },
+  {
+    "id": "207130001",
+    "name": "【予言巫女】レディリー＝タングルロード",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_207130001.png"
+  },
+  {
+    "id": "606930001",
+    "name": "【夢の入り口】鳴護 アリサ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_606930001.png"
+  },
+  {
+    "id": "204530002",
+    "name": "【気紛れサンタ】オティヌス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_204530002.png"
+  },
+  {
+    "id": "600230002",
+    "name": "【内緒の贈り物】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600230002.png"
+  },
+  {
+    "id": "207630002",
+    "name": "【聖夜の戯れ】心理定規",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_207630002.png"
+  },
+  {
+    "id": "616830001",
+    "name": "【スクール】誉望 万化",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_616830001.png"
+  },
+  {
+    "id": "810630001",
+    "name": "【真のグレムリン】僧正",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_810630001.png"
+  },
+  {
+    "id": "603630004",
+    "name": "【新年の幸腹】初春 飾利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_603630004.png"
+  },
+  {
+    "id": "1016430001",
+    "name": "【視覚阻害】重福 省帆",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "ショップ限定",
+    "sourceImage": "card_cutin_1016430001.png"
+  },
+  {
+    "id": "204030001",
+    "name": "【運び屋】オリアナ＝トムソン",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_204030001.png"
+  },
+  {
+    "id": "602930001",
+    "name": "【偽装神主】建宮 斎字",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602930001.png"
+  },
+  {
+    "id": "600430001",
+    "name": "【超速の一矢】御坂 美琴",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600430001.png"
+  },
+  {
+    "id": "201830001",
+    "name": "【ネコ耳メイド】絹旗 最愛",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_201830001.png"
+  },
+  {
+    "id": "606730001",
+    "name": "【御坂美琴の母】御坂 美鈴",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_606730001.png"
+  },
+  {
+    "id": "217830001",
+    "name": "【英国第一王女】リメエア",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_217830001.png"
+  },
+  {
+    "id": "617730001",
+    "name": "【英国女王】エリザード",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_617730001.png"
+  },
+  {
+    "id": "202130001",
+    "name": "【一〇〇四六号】御坂妹",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202130001.png"
+  },
+  {
+    "id": "604730001",
+    "name": "【冥土帰し】カエル顔の医者",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_604730001.png"
+  },
+  {
+    "id": "205330002",
+    "name": "【純和風メイド】湾内 絹保",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_205330002.png"
+  },
+  {
+    "id": "205530001",
+    "name": "【純和風メイド】泡浮 万彬",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_205530001.png"
+  },
+  {
+    "id": "600630001",
+    "name": "【ピンキーメイド】月詠 小萌",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600630001.png"
+  },
+  {
+    "id": "216530001",
+    "name": "【過去へのケジメ】黒妻 綿流",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_216530001.png"
+  },
+  {
+    "id": "801130001",
+    "name": "【Ｉ･Ｔ･Ｅ･Ｍ】麦野 沈利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_801130001.png"
+  },
+  {
+    "id": "604230001",
+    "name": "【真のアイドルの輝き】垣根 帝督",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_604230001.png"
+  },
+  {
+    "id": "210730001",
+    "name": "【真のグレムリン】ネフテュス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_210730001.png"
+  },
+  {
+    "id": "210830001",
+    "name": "【真のグレムリン】娘々",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_210830001.png"
+  },
+  {
+    "id": "617930001",
+    "name": "【ロマンを解する木原】木原 脳幹",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_617930001.png"
+  },
+  {
+    "id": "201330001",
+    "name": "【ニーア】一方通行",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_201330001.png"
+  },
+  {
+    "id": "202230005",
+    "name": "【ヨナ】打ち止め",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_202230005.png"
+  },
+  {
+    "id": "203530002",
+    "name": "【ヨルハ二号B型】固法 美偉",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_203530002.png"
+  },
+  {
+    "id": "600230003",
+    "name": "【エミール】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600230003.png"
+  },
+  {
+    "id": "218630001",
+    "name": "【幼き日の願い】御坂 美琴（幼少期）",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_218630001.png"
+  },
+  {
+    "id": "612930001",
+    "name": "【フワフワわたあめ】春上 衿衣",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_612930001.png"
+  },
+  {
+    "id": "205630001",
+    "name": "【統括理事会のブレイン】雲川 芹亜",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_205630001.png"
+  },
+  {
+    "id": "601030001",
+    "name": "【共に挑む苦難】食蜂 操祈",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_601030001.png"
+  },
+  {
+    "id": "202830001",
+    "name": "【抱擁の花嫁】オルソラ＝アクィナス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_202830001.png"
+  },
+  {
+    "id": "603130001",
+    "name": "【彩光の花嫁】アニェーゼ＝サンクティス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_603130001.png"
+  },
+  {
+    "id": "200130001",
+    "name": "【タキシードの少年】上条 当麻",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200130001.png"
+  },
+  {
+    "id": "800230001",
+    "name": "【淑やかティータイム】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_800230001.png"
+  },
+  {
+    "id": "208730002",
+    "name": "【定位置】禁書目録たん",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "記念",
+    "sourceImage": "card_cutin_208730002.png"
+  },
+  {
+    "id": "210430001",
+    "name": "【自称ＵＦＯ少女】烏丸 府蘭",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_210430001.png"
+  },
+  {
+    "id": "610930001",
+    "name": "【リトルジーニアス】パトリシア＝バードウェイ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_610930001.png"
+  },
+  {
+    "id": "212630001",
+    "name": "【『学習装置』の監修者】布束 砥信",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_212630001.png"
+  },
+  {
+    "id": "202830002",
+    "name": "【クルージングビーナス】オルソラ＝アクィナス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_202830002.png"
+  },
+  {
+    "id": "603030001",
+    "name": "【ひと夏の夢】五和",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_603030001.png"
+  },
+  {
+    "id": "202630001",
+    "name": "【エレガントバカンス】ローラ＝スチュアート",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_202630001.png"
+  },
+  {
+    "id": "602430001",
+    "name": "【輝く夕凪】ステイル＝マグヌス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602430001.png"
+  },
+  {
+    "id": "218330001",
+    "name": "【疾風】リュー・リオン",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_218330001.png"
+  },
+  {
+    "id": "218430001",
+    "name": "【艶やかなる妖術師】サンジョウノ・春姫",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_218430001.png"
+  },
+  {
+    "id": "618130001",
+    "name": "【幼貌の女神】ヘスティア",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_618130001.png"
+  },
+  {
+    "id": "201930001",
+    "name": "【湯けむりトラップ】フレンダ＝セイヴェルン",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_201930001.png"
+  },
+  {
+    "id": "602030003",
+    "name": "【露天リラックス】滝壺 理后",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602030003.png"
+  },
+  {
+    "id": "200230006",
+    "name": "【ナーシングシスター】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200230006.png"
+  },
+  {
+    "id": "600130002",
+    "name": "【バトラー】上条 当麻",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600130002.png"
+  },
+  {
+    "id": "218930001",
+    "name": "【爆炎の支配者】シズ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_218930001.png"
+  },
+  {
+    "id": "219030001",
+    "name": "【リムルの筆頭秘書】シオン",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_219030001.png"
+  },
+  {
+    "id": "619130001",
+    "name": "【暴風竜】ヴェルドラ＝テンペスト",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_619130001.png"
+  },
+  {
+    "id": "200430004",
+    "name": "【幸せな日常】御坂 美琴",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200430004.png"
+  },
+  {
+    "id": "203530003",
+    "name": "【銭湯好き】固法 美偉",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_203530003.png"
+  },
+  {
+    "id": "803630001",
+    "name": "【憧れのお嬢様】初春 飾利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_803630001.png"
+  },
+  {
+    "id": "620130001",
+    "name": "【新入り風紀委員】牧上 小牧",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_620130001.png"
+  },
+  {
+    "id": "202430001",
+    "name": "【ギャンブラー】ステイル＝マグヌス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_202430001.png"
+  },
+  {
+    "id": "202830003",
+    "name": "【アシスタントバニー】オルソラ＝アクィナス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_202830003.png"
+  },
+  {
+    "id": "619430001",
+    "name": "【天草式十字凄教】対馬",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_619430001.png"
+  },
+  {
+    "id": "213930001",
+    "name": "【幸せなクリスマス】警策 看取",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_213930001.png"
+  },
+  {
+    "id": "617630001",
+    "name": "【０号】ドリー",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_617630001.png"
+  },
+  {
+    "id": "200330002",
+    "name": "【ブラックサンタ】土御門 元春",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200330002.png"
+  },
+  {
+    "id": "601230001",
+    "name": "【仮面をつけたサンタ】海原 光貴",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_601230001.png"
+  },
+  {
+    "id": "200630002",
+    "name": "【一教師のお正月】月詠 小萌",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200630002.png"
+  },
+  {
+    "id": "804330001",
+    "name": "【神楽】レイヴィニア＝バードウェイ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_804330001.png"
+  },
+  {
+    "id": "602330001",
+    "name": "【秘めたる想い】姫神 秋沙",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602330001.png"
+  },
+  {
+    "id": "201130001",
+    "name": "【振袖名花】麦野 沈利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_201130001.png"
+  },
+  {
+    "id": "602030004",
+    "name": "【うららか寝正月】滝壺 理后",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602030004.png"
+  },
+  {
+    "id": "1004830001",
+    "name": "【ＢＬＡＵ】青髪ピアス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "ショップ限定",
+    "sourceImage": "card_cutin_1004830001.png"
+  },
+  {
+    "id": "1018530001",
+    "name": "【メンバー】馬場 芳郎",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "ショップ限定",
+    "sourceImage": "card_cutin_1018530001.png"
+  },
+  {
+    "id": "200530003",
+    "name": "【お姉様の露払い】白井 黒子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200530003.png"
+  },
+  {
+    "id": "213030001",
+    "name": "【人懐っこい少女】フェブリ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_213030001.png"
+  },
+  {
+    "id": "202830004",
+    "name": "【バレンタインフェア】オルソラ＝アクィナス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_202830004.png"
+  },
+  {
+    "id": "602730001",
+    "name": "【チョコカービング】シェリー＝クロムウェル",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602730001.png"
+  },
+  {
+    "id": "619730001",
+    "name": "【暗黒竜】イリス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_619730001.png"
+  },
+  {
+    "id": "219830001",
+    "name": "【栄光紋の少女】ルリイ＝アーベントロート",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_219830001.png"
+  },
+  {
+    "id": "219930001",
+    "name": "【常魔紋の少女】アルマ＝レプシウス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_219930001.png"
+  },
+  {
+    "id": "211830001",
+    "name": "【追跡者】弓箭 猟虎",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_211830001.png"
+  },
+  {
+    "id": "204530003",
+    "name": "【小さなパティシエ】オティヌス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_204530003.png"
+  },
+  {
+    "id": "603930001",
+    "name": "【奉仕の精神】土御門 舞夏",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_603930001.png"
+  },
+  {
+    "id": "208430002",
+    "name": "【ミスチバスナース】番外個体",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_208430002.png"
+  },
+  {
+    "id": "605430001",
+    "name": "【優しさの守護者】芳川 桔梗",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_605430001.png"
+  },
+  {
+    "id": "203530004",
+    "name": "【頼れる先輩】固法 美偉",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203530004.png"
+  },
+  {
+    "id": "212830001",
+    "name": "【不遜な囚人】テレスティーナ＝木原＝ライフライン",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_212830001.png"
+  },
+  {
+    "id": "201030002",
+    "name": "【アイドルの女王】食蜂 操祈",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_201030002.png"
+  },
+  {
+    "id": "210230001",
+    "name": "【根性系アイドル】削板 軍覇",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_210230001.png"
+  },
+  {
+    "id": "810030001",
+    "name": "【魔神を許した男】オッレルス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_810030001.png"
+  },
+  {
+    "id": "620530001",
+    "name": "【垣根 帝督】カブトムシ０５",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_620530001.png"
+  },
+  {
+    "id": "206430001",
+    "name": "【『神の力』】後方のアックア",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_206430001.png"
+  },
+  {
+    "id": "609530001",
+    "name": "【『神の薬』】左方のテッラ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_609530001.png"
+  },
+  {
+    "id": "212630002",
+    "name": "【三人一緒に】布束 砥信",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_212630002.png"
+  },
+  {
+    "id": "200430005",
+    "name": "【しあわせな夢】御坂 美琴",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200430005.png"
+  },
+  {
+    "id": "215930001",
+    "name": "【“千変”】シュドナイ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_215930001.png"
+  },
+  {
+    "id": "204130001",
+    "name": "【先生】木山 春生",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_204130001.png"
+  },
+  {
+    "id": "212930001",
+    "name": "【精神感応】春上 衿衣",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_212930001.png"
+  },
+  {
+    "id": "203630002",
+    "name": "【錦上添花】初春 飾利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_203630002.png"
+  },
+  {
+    "id": "603530001",
+    "name": "【ブライダルライダー】固法 美偉",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_603530001.png"
+  },
+  {
+    "id": "204530004",
+    "name": "【フェアリーブライド】オティヌス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_204530004.png"
+  },
+  {
+    "id": "208030002",
+    "name": "【小悪魔パートナー】レッサー",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_208030002.png"
+  },
+  {
+    "id": "610930002",
+    "name": "【幸せの門出】パトリシア＝バードウェイ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_610930002.png"
+  },
+  {
+    "id": "202330001",
+    "name": "【望まぬ力】姫神 秋沙",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202330001.png"
+  },
+  {
+    "id": "200530004",
+    "name": "【一生の不覚】白井 黒子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200530004.png"
+  },
+  {
+    "id": "801030001",
+    "name": "【液状被覆超電磁砲】食蜂 操祈",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_801030001.png"
+  },
+  {
+    "id": "208930001",
+    "name": "【定位置】ミサカたん",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "記念",
+    "sourceImage": "card_cutin_208930001.png"
+  },
+  {
+    "id": "602130002",
+    "name": "【パーティーミッション】御坂妹",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602130002.png"
+  },
+  {
+    "id": "206630001",
+    "name": "【イレギュラー因子】浜面 仕上",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_206630001.png"
+  },
+  {
+    "id": "802230001",
+    "name": "【上位個体】打ち止め",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_802230001.png"
+  },
+  {
+    "id": "608430003",
+    "name": "【ゴシックパンク】番外個体",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_608430003.png"
+  },
+  {
+    "id": "201430001",
+    "name": "【『人間』】アレイスター＝クロウリー",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_201430001.png"
+  },
+  {
+    "id": "204830001",
+    "name": "【クラスの三バカ】青髪ピアス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_204830001.png"
+  },
+  {
+    "id": "200230007",
+    "name": "【魔法科第一高校生】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_200230007.png"
+  },
+  {
+    "id": "221330001",
+    "name": "【魔法科第一高校生】北山 雫",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_221330001.png"
+  },
+  {
+    "id": "221430001",
+    "name": "【魔法科第一高校生】光井 ほのか",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_221430001.png"
+  },
+  {
+    "id": "621530001",
+    "name": "【魔法科第一高校生】七草 真由美",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_621530001.png"
+  },
+  {
+    "id": "200130002",
+    "name": "【魔法科第一高校生】上条 当麻",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_200130002.png"
+  },
+  {
+    "id": "221630001",
+    "name": "【魔法科第一高校生】アンジェリーナ＝クドウ＝シールズ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_221630001.png"
+  },
+  {
+    "id": "600530002",
+    "name": "【魔法科第一高校生】白井 黒子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600530002.png"
+  },
+  {
+    "id": "200130003",
+    "name": "【託された願い】上条 当麻",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200130003.png"
+  },
+  {
+    "id": "222230001",
+    "name": "【『罪歌』の宿主】園原 杏里",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_222230001.png"
+  },
+  {
+    "id": "222430001",
+    "name": "【闇医者】岸谷 新羅",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_222430001.png"
+  },
+  {
+    "id": "622330001",
+    "name": "【情報屋】折原 臨也",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_622330001.png"
+  },
+  {
+    "id": "1006130001",
+    "name": "【ローマ正教司教】ビアージオ＝ブゾーニ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超紫",
+    "limit": "ショップ限定",
+    "sourceImage": "card_cutin_1006130001.png"
+  },
+  {
+    "id": "202030001",
+    "name": "【電波受信系バニー】滝壺 理后",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_202030001.png"
+  },
+  {
+    "id": "206630002",
+    "name": "【警備員】浜面 仕上",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_206630002.png"
+  },
+  {
+    "id": "601930001",
+    "name": "【アイテムの日常】フレンダ＝セイヴェルン",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_601930001.png"
+  },
+  {
+    "id": "203730004",
+    "name": "【真のサバ愛の同志】佐天 涙子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203730004.png"
+  },
+  {
+    "id": "213930002",
+    "name": "【ドリーの保護者】警策 看取",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_213930002.png"
+  },
+  {
+    "id": "200230008",
+    "name": "【海辺の令嬢】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200230008.png"
+  },
+  {
+    "id": "810730001",
+    "name": "【魔神のバカンス】ネフテュス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_810730001.png"
+  },
+  {
+    "id": "600130003",
+    "name": "【穏やかな夕暮れ】上条 当麻",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600130003.png"
+  },
+  {
+    "id": "201330002",
+    "name": "【騎馬憲兵】一方通行",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_201330002.png"
+  },
+  {
+    "id": "202230006",
+    "name": "【署長】打ち止め",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_202230006.png"
+  },
+  {
+    "id": "600130004",
+    "name": "【スコットランドヤード】上条 当麻",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600130004.png"
+  },
+  {
+    "id": "206630003",
+    "name": "【武装無能力者集団】浜面 仕上",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_206630003.png"
+  },
+  {
+    "id": "209330002",
+    "name": "【豊穣の女神】帆風 潤子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_209330002.png"
+  },
+  {
+    "id": "605630001",
+    "name": "【ジーニアス・ウィッチ】雲川 芹亜",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_605630001.png"
+  },
+  {
+    "id": "200130004",
+    "name": "【『豪腕』の錬金術師】上条 当麻",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_200130004.png"
+  },
+  {
+    "id": "222530001",
+    "name": "【『鋼』の錬金術師】エドワード・エルリック",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超赤",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_222530001.png"
+  },
+  {
+    "id": "222730001",
+    "name": "【『焰』の錬金術師】ロイ・マスタング",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_222730001.png"
+  },
+  {
+    "id": "222830001",
+    "name": "【鷹の眼】リザ・ホークアイ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_222830001.png"
+  },
+  {
+    "id": "622630001",
+    "name": "【心優しき錬金術師】アルフォンス・エルリック",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_622630001.png"
+  },
+  {
+    "id": "201730001",
+    "name": "【トラウマの克服】結標 淡希",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_201730001.png"
+  },
+  {
+    "id": "218530001",
+    "name": "【『避暑地』】馬場 芳郎",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_218530001.png"
+  },
+  {
+    "id": "203630003",
+    "name": "【ツリーの守護神】初春 飾利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_203630003.png"
+  },
+  {
+    "id": "205330003",
+    "name": "【純白サンタ】湾内 絹保",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_205330003.png"
+  },
+  {
+    "id": "605530002",
+    "name": "【純白サンタ】泡浮 万彬",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_605530002.png"
+  },
+  {
+    "id": "203330001",
+    "name": "【温泉満喫】アンジェレネ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_203330001.png"
+  },
+  {
+    "id": "603130002",
+    "name": "【湯上りシスター】アニェーゼ＝サンクティス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_603130002.png"
+  },
+  {
+    "id": "202030002",
+    "name": "【『八人目』の可能性】滝壺 理后",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202030002.png"
+  },
+  {
+    "id": "203630004",
+    "name": "【『書庫』の門番】初春 飾利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203630004.png"
+  },
+  {
+    "id": "204530005",
+    "name": "【振袖妖精】オティヌス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_204530005.png"
+  },
+  {
+    "id": "602630002",
+    "name": "【振袖湯浴み】ローラ＝スチュアート",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602630002.png"
+  },
+  {
+    "id": "202230007",
+    "name": "【芸術的雪遊び】打ち止め",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_202230007.png"
+  },
+  {
+    "id": "612130001",
+    "name": "【舶来】フレメア＝セイヴェルン",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_612130001.png"
+  },
+  {
+    "id": "801330001",
+    "name": "【悪の道を捨てた者】一方通行",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超赤",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_801330001.png"
+  },
+  {
+    "id": "216730001",
+    "name": "【忍者の末裔】服部 半蔵",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_216730001.png"
+  },
+  {
+    "id": "224330001",
+    "name": "【忍者の末裔】郭",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_224330001.png"
+  },
+  {
+    "id": "202130002",
+    "name": "【個性の芽生え】御坂妹",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_202130002.png"
+  },
+  {
+    "id": "209330003",
+    "name": "【甘いお茶会】帆風 潤子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_209330003.png"
+  },
+  {
+    "id": "620130002",
+    "name": "【派閥のバレンタイン】牧上 小牧",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_620130002.png"
+  },
+  {
+    "id": "200430006",
+    "name": "【臨時マネージャー】御坂 美琴",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200430006.png"
+  },
+  {
+    "id": "600530003",
+    "name": "【託された場所】白井 黒子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600530003.png"
+  },
+  {
+    "id": "202430002",
+    "name": "【師匠】ステイル＝マグヌス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202430002.png"
+  },
+  {
+    "id": "207030001",
+    "name": "【願い生まれる奇蹟】シャットアウラ＝セクウェンツィア",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_207030001.png"
+  },
+  {
+    "id": "210330001",
+    "name": "【『夢を掴む力』を得し者】上里 翔流",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_210330001.png"
+  },
+  {
+    "id": "224530001",
+    "name": "【狂気の復讐者】木原 唯一",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_224530001.png"
+  },
+  {
+    "id": "600530004",
+    "name": "【『御坂美琴の懐刀』】白井 黒子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600530004.png"
+  },
+  {
+    "id": "215530001",
+    "name": "【気になる視線】去鳴",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_215530001.png"
+  },
+  {
+    "id": "224730001",
+    "name": "【『海賊少女』】豊山 琉華",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_224730001.png"
+  },
+  {
+    "id": "625130001",
+    "name": "【『辿り屋』】有村 絵恋",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_625130001.png"
+  },
+  {
+    "id": "200230009",
+    "name": "【ポカポカおふろ】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200230009.png"
+  },
+  {
+    "id": "203030001",
+    "name": "【ツーリング】五和",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203030001.png"
+  },
+  {
+    "id": "201030003",
+    "name": "【ギタークイーン】食蜂 操祈",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_201030003.png"
+  },
+  {
+    "id": "825030001",
+    "name": "【謎の美少女】鈴科 百合子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超青",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_825030001.png"
+  },
+  {
+    "id": "604230002",
+    "name": "【隠し切れないオーラ】垣根 帝督",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_604230002.png"
+  },
+  {
+    "id": "200230010",
+    "name": "【電車通学】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200230010.png"
+  },
+  {
+    "id": "203130001",
+    "name": "【通学路の密かな楽しみ】アニェーゼ＝サンクティス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_203130001.png"
+  },
+  {
+    "id": "602830004",
+    "name": "【学生の導き手】オルソラ＝アクィナス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602830004.png"
+  },
+  {
+    "id": "200530005",
+    "name": "【約束】白井 黒子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200530005.png"
+  },
+  {
+    "id": "203630005",
+    "name": "【腐れ縁】初春 飾利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203630005.png"
+  },
+  {
+    "id": "200530006",
+    "name": "【絶やさぬ訓練】白井 黒子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200530006.png"
+  },
+  {
+    "id": "609330002",
+    "name": "【トレーニング日和】帆風 潤子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_609330002.png"
+  },
+  {
+    "id": "200430007",
+    "name": "【とある偶像の】御坂 美琴",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200430007.png"
+  },
+  {
+    "id": "202230008",
+    "name": "【ゲコ太パーカー】打ち止め",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_202230008.png"
+  },
+  {
+    "id": "606630002",
+    "name": "【慣れない保護者役】浜面 仕上",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_606630002.png"
+  },
+  {
+    "id": "1023530001",
+    "name": "【狙撃のプロ】砂皿 緻密",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超緑",
+    "limit": "ショップ限定",
+    "sourceImage": "card_cutin_1023530001.png"
+  },
+  {
+    "id": "200130005",
+    "name": "【満身創痍の少年】上条 当麻",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200130005.png"
+  },
+  {
+    "id": "206330001",
+    "name": "【反旗の一手】前方のヴェント",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_206330001.png"
+  },
+  {
+    "id": "203730005",
+    "name": "【アラビアンナイト】佐天 涙子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_203730005.png"
+  },
+  {
+    "id": "603630005",
+    "name": "【アラビアンナイト】初春 飾利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_603630005.png"
+  },
+  {
+    "id": "201830002",
+    "name": "【スターリングブライド】絹旗 最愛",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_201830002.png"
+  },
+  {
+    "id": "602030005",
+    "name": "【レディオブライド】滝壺 理后",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602030005.png"
+  },
+  {
+    "id": "200230011",
+    "name": "【イギリス召集】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200230011.png"
+  },
+  {
+    "id": "202630002",
+    "name": "【『清教派』のトップ】ローラ＝スチュアート",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202630002.png"
+  },
+  {
+    "id": "209230002",
+    "name": "【記念日の水着】エステル＝ローゼンタール",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_209230002.png"
+  },
+  {
+    "id": "825230001",
+    "name": "【完全を求めた肉体】菱形 蛭魅",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超紫",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_825230001.png"
+  },
+  {
+    "id": "602130003",
+    "name": "【水陸両用型装備】御坂妹",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602130003.png"
+  },
+  {
+    "id": "202530001",
+    "name": "【魅惑の聖人】神裂 火織",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_202530001.png"
+  },
+  {
+    "id": "220330001",
+    "name": "【水着の可能性】アレイスター＝クロウリー（少女）",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_220330001.png"
+  },
+  {
+    "id": "825330001",
+    "name": "【人造悪魔】クリファパズル５４５",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超緑",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_825330001.png"
+  },
+  {
+    "id": "600530005",
+    "name": "【最終兵器】白井 黒子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600530005.png"
+  },
+  {
+    "id": "201330003",
+    "name": "【引率ビーチ】一方通行",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_201330003.png"
+  },
+  {
+    "id": "202830005",
+    "name": "【要人警護】オルソラ＝アクィナス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202830005.png"
+  },
+  {
+    "id": "224930001",
+    "name": "【面倒な才能】雲川 鞠亜",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_224930001.png"
+  },
+  {
+    "id": "201030004",
+    "name": "【サマースイート】食蜂 操祈",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_201030004.png"
+  },
+  {
+    "id": "210230002",
+    "name": "【ビーチフラッグ】削板 軍覇",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_210230002.png"
+  },
+  {
+    "id": "605630002",
+    "name": "【グラビアショット】雲川 芹亜",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_605630002.png"
+  },
+  {
+    "id": "203630006",
+    "name": "【ウォータースライダー】初春 飾利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_203630006.png"
+  },
+  {
+    "id": "205330004",
+    "name": "【お嬢様の水泳練習】湾内 絹保",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_205330004.png"
+  },
+  {
+    "id": "605530003",
+    "name": "【水泳部の心得】泡浮 万彬",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_605530003.png"
+  },
+  {
+    "id": "208130002",
+    "name": "【結社予備軍のまとめ役】フロリス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_208130002.png"
+  },
+  {
+    "id": "207630003",
+    "name": "【涼やかな距離】心理定規",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_207630003.png"
+  },
+  {
+    "id": "211330001",
+    "name": "【夏休みの暗部組織】清ヶ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_211330001.png"
+  },
+  {
+    "id": "211430002",
+    "name": "【夏休みの暗部組織】薬丸",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_211430002.png"
+  },
+  {
+    "id": "611130002",
+    "name": "【夏休みの暗部組織】リーダー",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_611130002.png"
+  },
+  {
+    "id": "208030003",
+    "name": "【月光バニーちゃん】レッサー",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_208030003.png"
+  },
+  {
+    "id": "628730001",
+    "name": "【不遇の修道女】サーシャ＝クロイツェフ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_628730001.png"
+  },
+  {
+    "id": "206530001",
+    "name": "【無能力者の護り手】駒場 利徳",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_206530001.png"
+  },
+  {
+    "id": "228430001",
+    "name": "【ミサカネットワーク】総体",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_228430001.png"
+  },
+  {
+    "id": "204530006",
+    "name": "【同級生の妖精】オティヌス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_204530006.png"
+  },
+  {
+    "id": "210830002",
+    "name": "【柵川中の魔神】娘々",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_210830002.png"
+  },
+  {
+    "id": "810730002",
+    "name": "【常盤台の魔神】ネフテュス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超赤",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_810730002.png"
+  },
+  {
+    "id": "613230001",
+    "name": "【白猫の魔女】ミナ＝メイザース",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_613230001.png"
+  },
+  {
+    "id": "201330004",
+    "name": "【異界型富豪アーサー】一方通行",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超青",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_201330004.png"
+  },
+  {
+    "id": "600230004",
+    "name": "【異界型エル】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600230004.png"
+  },
+  {
+    "id": "200630003",
+    "name": "【生きる学園七不思議】月詠 小萌",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200630003.png"
+  },
+  {
+    "id": "202330002",
+    "name": "【幸せな昼休み】姫神 秋沙",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_202330002.png"
+  },
+  {
+    "id": "201130002",
+    "name": "【守護者統括】麦野 沈利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_201130002.png"
+  },
+  {
+    "id": "226130001",
+    "name": "【頼りない大自然の使者】マーレ・ベロ・フィオーレ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_226130001.png"
+  },
+  {
+    "id": "626230001",
+    "name": "【プレアデス】ナーベラル・ガンマ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_626230001.png"
+  },
+  {
+    "id": "202030003",
+    "name": "【美姫】滝壺 理后",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_202030003.png"
+  },
+  {
+    "id": "225930001",
+    "name": "【鮮血の戦乙女】シャルティア・ブラッドフォールン",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超紫",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_225930001.png"
+  },
+  {
+    "id": "606630003",
+    "name": "【漆黒の英雄】浜面 仕上",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_606630003.png"
+  },
+  {
+    "id": "201030005",
+    "name": "【夢の世界の女王】食蜂 操祈",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_201030005.png"
+  },
+  {
+    "id": "209330004",
+    "name": "【夢の世界の専属メイド】帆風 潤子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_209330004.png"
+  },
+  {
+    "id": "202130003",
+    "name": "【クリスマスプレゼント】御坂妹",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_202130003.png"
+  },
+  {
+    "id": "208430003",
+    "name": "【不意打ちサンタ】番外個体",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_208430003.png"
+  },
+  {
+    "id": "600130005",
+    "name": "【クリスマスの配達人】上条 当麻",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600130005.png"
+  },
+  {
+    "id": "202430003",
+    "name": "【クリスマスエスコート】ステイル＝マグヌス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_202430003.png"
+  },
+  {
+    "id": "602630003",
+    "name": "【クリスマスドレス】ローラ＝スチュアート",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602630003.png"
+  },
+  {
+    "id": "201930002",
+    "name": "【幸せな世界】フレンダ＝セイヴェルン",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_201930002.png"
+  },
+  {
+    "id": "225630001",
+    "name": "【兄妹の悲願】菱形 幹比古",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_225630001.png"
+  },
+  {
+    "id": "208030004",
+    "name": "【教育の決意】レッサー",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_208030004.png"
+  },
+  {
+    "id": "608330001",
+    "name": "【新たなる刺客】ランシス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_608330001.png"
+  },
+  {
+    "id": "204330001",
+    "name": "【恵方詣り】レイヴィニア＝バードウェイ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_204330001.png"
+  },
+  {
+    "id": "209930001",
+    "name": "【待ち人来る】トール",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_209930001.png"
+  },
+  {
+    "id": "626330001",
+    "name": "【明け色の陽射し】マーク＝スペース",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_626330001.png"
+  },
+  {
+    "id": "200230012",
+    "name": "【『逃がし屋』】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_200230012.png"
+  },
+  {
+    "id": "203030002",
+    "name": "【草紙断ち】五和",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_203030002.png"
+  },
+  {
+    "id": "212430001",
+    "name": "【鉄槌】投擲の槌",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_212430001.png"
+  },
+  {
+    "id": "200230013",
+    "name": "【目指せ！エンジニア】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_200230013.png"
+  },
+  {
+    "id": "227030001",
+    "name": "【エリートエージェント】夕桐 アヤノ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_227030001.png"
+  },
+  {
+    "id": "626830001",
+    "name": "【悪魔との契約者】緒方 シュウ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_626830001.png"
+  },
+  {
+    "id": "1006230001",
+    "name": "【殲滅白書】ワシリーサ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超緑",
+    "limit": "ショップ限定",
+    "sourceImage": "card_cutin_1006230001.png"
+  },
+  {
+    "id": "227230001",
+    "name": "【ライジングサン】クロエ・タン",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_227230001.png"
+  },
+  {
+    "id": "600130006",
+    "name": "【切り札となる男】上条 当麻",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600130006.png"
+  },
+  {
+    "id": "201330005",
+    "name": "【野暮用】一方通行",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_201330005.png"
+  },
+  {
+    "id": "203030003",
+    "name": "【少女の決意】五和",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_203030003.png"
+  },
+  {
+    "id": "201230001",
+    "name": "【グループ】海原 光貴",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_201230001.png"
+  },
+  {
+    "id": "211830002",
+    "name": "【枝垂桜学園】弓箭 猟虎",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_211830002.png"
+  },
+  {
+    "id": "204430001",
+    "name": "【サイボーグ少女】黒夜 海鳥",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_204430001.png"
+  },
+  {
+    "id": "226530001",
+    "name": "【『森』の支配者】サローニャ＝A＝イリヴィカ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_226530001.png"
+  },
+  {
+    "id": "626630001",
+    "name": "【『アメリカ合衆国大統領』】ロベルト＝カッツェ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_626630001.png"
+  },
+  {
+    "id": "200130006",
+    "name": "【三倍返しの約束】上条 当麻",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200130006.png"
+  },
+  {
+    "id": "204330002",
+    "name": "【スウィートフェアリー】レイヴィニア＝バードウェイ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_204330002.png"
+  },
+  {
+    "id": "203630007",
+    "name": "【スイーツガール】初春 飾利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_203630007.png"
+  },
+  {
+    "id": "203730006",
+    "name": "【キャンディガール】佐天 涙子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_203730006.png"
+  },
+  {
+    "id": "603530002",
+    "name": "【クール＆キューティー】固法 美偉",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_603530002.png"
+  },
+  {
+    "id": "206630004",
+    "name": "【ディパーチャー】浜面 仕上",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_206630004.png"
+  },
+  {
+    "id": "204530007",
+    "name": "【ミンストレル・メロディ】オティヌス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_204530007.png"
+  },
+  {
+    "id": "600230005",
+    "name": "【祝福のアイドル】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_600230005.png"
+  },
+  {
+    "id": "1029530001",
+    "name": "【フランスの軍師】『傾国の女』",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超黄",
+    "limit": "ショップ限定",
+    "sourceImage": "card_cutin_1029530001.png"
+  },
+  {
+    "id": "207630004",
+    "name": "【心を許す距離単位】心理定規",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_207630004.png"
+  },
+  {
+    "id": "229430001",
+    "name": "【『暗闇の五月計画』】杠 林檎",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_229430001.png"
+  },
+  {
+    "id": "629330001",
+    "name": "【『代替』の研究者】木原 相似",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_629330001.png"
+  },
+  {
+    "id": "211830003",
+    "name": "【ランチタイム】弓箭 猟虎",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_211830003.png"
+  },
+  {
+    "id": "216830001",
+    "name": "【アンダーカヴァー】誉望 万化",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_216830001.png"
+  },
+  {
+    "id": "201830003",
+    "name": "【Ｉ･Ｔ･Ｅ･Ｍ】絹旗 最愛",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_201830003.png"
+  },
+  {
+    "id": "801930001",
+    "name": "【Ｉ･Ｔ･Ｅ･Ｍ】フレンダ＝セイヴェルン",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_801930001.png"
+  },
+  {
+    "id": "602030006",
+    "name": "【Ｉ･Ｔ･Ｅ･Ｍ】滝壺 理后",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602030006.png"
+  },
+  {
+    "id": "200430008",
+    "name": "【休日満喫】御坂 美琴",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_200430008.png"
+  },
+  {
+    "id": "200430009",
+    "name": "【実験阻止】御坂 美琴",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200430009.png"
+  },
+  {
+    "id": "201330006",
+    "name": "【『最強』の先へ】一方通行",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_201330006.png"
+  },
+  {
+    "id": "602130004",
+    "name": "【量産型能力者計画】御坂妹",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_602130004.png"
+  },
+  {
+    "id": "214130001",
+    "name": "【メンバー】ショチトル",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_214130001.png"
+  },
+  {
+    "id": "228530001",
+    "name": "【忍者の末裔】杉谷",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_228530001.png"
+  },
+  {
+    "id": "202230009",
+    "name": "【繋げるハッピー】打ち止め",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_202230009.png"
+  },
+  {
+    "id": "210430002",
+    "name": "【ふわふわハピネス】烏丸 府蘭",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_210430002.png"
+  },
+  {
+    "id": "215530002",
+    "name": "【捧ぐ誓い】去鳴",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_215530002.png"
+  },
+  {
+    "id": "625130002",
+    "name": "【爛漫祝言】有村 絵恋",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_625130002.png"
+  },
+  {
+    "id": "200230014",
+    "name": "【アークウィザード】インデックス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超黄",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_200230014.png"
+  },
+  {
+    "id": "210130001",
+    "name": "【元警備員の傭兵】ステファニー＝ゴージャスパレス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_210130001.png"
+  },
+  {
+    "id": "229930001",
+    "name": "【『翼ある者の帰還』】テクパトル",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_229930001.png"
+  },
+  {
+    "id": "201330007",
+    "name": "【闇に堕ちる】一方通行",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_201330007.png"
+  },
+  {
+    "id": "829830001",
+    "name": "【『深淵を越える者』】アレイスター＝クロウリー（大悪魔）",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超赤",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_829830001.png"
+  },
+  {
+    "id": "604030001",
+    "name": "【レストタイム】オリアナ＝トムソン",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_604030001.png"
+  },
+  {
+    "id": "203630008",
+    "name": "【お嬢様ドレススタイル】初春 飾利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_203630008.png"
+  },
+  {
+    "id": "203730007",
+    "name": "【セクシードレスへの挑戦】佐天 涙子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_203730007.png"
+  },
+  {
+    "id": "809330001",
+    "name": "【幽体連理】帆風 潤子",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "フェス限定",
+    "sourceImage": "card_cutin_809330001.png"
+  },
+  {
+    "id": "604230003",
+    "name": "【待ち合わせ】垣根 帝督",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_604230003.png"
+  },
+  {
+    "id": "208030005",
+    "name": "【待ち望んだチャンス】レッサー",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_208030005.png"
+  },
+  {
+    "id": "221830001",
+    "name": "【魔法科第一高校生】柴田 美月",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "黄",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_221830001.png"
+  },
+  {
+    "id": "203630009",
+    "name": "【魔法科第一高校生】初春 飾利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "コラボ限定",
+    "sourceImage": "card_cutin_203630009.png"
+  },
+  {
+    "id": "204230001",
+    "name": "【チューブ・ライディング】垣根 帝督",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_204230001.png"
+  },
+  {
+    "id": "207630005",
+    "name": "【ひとときの凪】心理定規",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超紫",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_207630005.png"
+  },
+  {
+    "id": "228730001",
+    "name": "【殲滅白書】サーシャ＝クロイツェフ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "紫",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_228730001.png"
+  },
+  {
+    "id": "230230001",
+    "name": "【独立国同盟の聖女】エリザリーナ",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_230230001.png"
+  },
+  {
+    "id": "200430010",
+    "name": "【浮き立つ気持ち】御坂 美琴",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_200430010.png"
+  },
+  {
+    "id": "201030006",
+    "name": "【うたかたの光華】食蜂 操祈",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超赤",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_201030006.png"
+  },
+  {
+    "id": "208030006",
+    "name": "【手花火】レッサー",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_208030006.png"
+  },
+  {
+    "id": "200130007",
+    "name": "【お祭り団欒】上条 当麻",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "記念",
+    "sourceImage": "card_cutin_200130007.png"
+  },
+  {
+    "id": "604530001",
+    "name": "【手乗り神狐】オティヌス",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_604530001.png"
+  },
+  {
+    "id": "202030004",
+    "name": "【天然由来の癒し】滝壺 理后",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "超緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_202030004.png"
+  },
+  {
+    "id": "206630005",
+    "name": "【引き当てる男】浜面 仕上",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "期間限定",
+    "sourceImage": "card_cutin_206630005.png"
+  },
+  {
+    "id": "601130001",
+    "name": "【凄艶なる資産家令嬢】麦野 沈利",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "赤",
+    "limit": "イベント限定",
+    "sourceImage": "card_cutin_601130001.png"
+  },
+  {
+    "id": "204030002",
+    "name": "【困難に巻き込まれる美女】オリアナ＝トムソン",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "緑",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_204030002.png"
+  },
+  {
+    "id": "205630002",
+    "name": "【少女の愛する日常】雲川 芹亜",
+    "stars": 3,
+    "type": "assist",
+    "attribute": "青",
+    "limit": "恒常",
+    "sourceImage": "card_cutin_205630002.png"
+  }
+]
