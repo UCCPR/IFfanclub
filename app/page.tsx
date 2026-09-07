@@ -926,7 +926,7 @@ export default function Home() {
                     <div className="pool-draw-slot">
                       <span className="pool-balloon">
                         <span className="pool-balloon-text">
-                          <img src={uiAsset('ticket')} alt="" /> ×1
+                          無償 {nf(COST)}
                         </span>
                       </span>
                       <OriginalDrawButton
@@ -974,7 +974,7 @@ export default function Home() {
                       有償 <b>0</b>
                     </span>
                     <span>
-                      所持券 <b>{nf(Math.floor(save.draws / 10))}</b>
+                      所持券 <b>0</b>
                     </span>
                   </div>
                   <div className="pool-pity">
@@ -1621,7 +1621,7 @@ export default function Home() {
           ) : confirmation.stage === 'pick' ? (
             <>
               <DialogDescription className="pool-confirm-instruction">
-                使用するチケットと個数を選択して下さい
+                使用するゲコ太と回数を確認して下さい
               </DialogDescription>
               <div className="pool-ticket-list">
                 <div className="pool-ticket-row selected">
@@ -1629,12 +1629,12 @@ export default function Home() {
                     <img src={uiAsset('silver-frog')} alt="" />
                   </span>
                   <span className="pool-ticket-copy">
-                    <strong>ガチャチケット</strong>
+                    <strong>無償ゲコ太</strong>
                     <em>
-                      プレミアムガチャやピックアップガチャを回せるガチャチケットです
+                      {confirmation.count}回ガチャに{nf(confirmation.cost!)}ゲコ太を使用します
                     </em>
                     <small>所持数</small>
-                    <b>{confirmation.count}</b>
+                    <b>{nf(save.balance)}</b>
                   </span>
                   <span className="pool-ticket-stepper">
                     <Button
@@ -1668,7 +1668,7 @@ export default function Home() {
                         });
                       }}
                     >
-                      {confirmation.count}枚使用
+                      {confirmation.count}回分を選択
                     </Button>
                       <Button
                         aria-label="使用数を増やす"
@@ -1714,14 +1714,14 @@ export default function Home() {
           ) : (
             <>
               <DialogDescription className="pool-final-question">
-                ガチャチケットを消費して
+                無償ゲコ太を消費して
                 <strong>{confirmation?.count}回ガチャを1回</strong>
                 引きますか？
               </DialogDescription>
               <div className="pool-cost-line">
-                <span>所持数</span>
+                <span>所持数（使用後）</span>
                 <b>
-                  {confirmation?.count}/{confirmation?.count} (0)
+                  {nf(save.balance)} → {nf(save.balance - confirmation!.cost!)}
                 </b>
               </div>
               <div className="pool-end-time">
@@ -1759,8 +1759,7 @@ export default function Home() {
                       });
                   }}
                 >
-                  <img src={uiAsset('silver-frog')} alt="" />
-                  <span>{confirmation?.count}</span>
+                  <span>◆ {nf(confirmation?.cost ?? 0)}</span>
                   OK{busy ? ' · 保存中…' : ''}
                 </Button>
               </div>
