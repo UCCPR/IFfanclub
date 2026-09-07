@@ -1,7 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { uiAsset } from '@/components/game-card';
-import { mediaUrl, syncPlayback } from '@/lib/gacha-media';
 
 type Props = {
   /** Ordered list of media URLs to play in sequence. */
@@ -24,7 +23,6 @@ export function GachaMovie({
   onTime,
 }: Props) {
   const ref = useRef<HTMLVideoElement>(null);
-  const bgmRef = useRef<HTMLAudioElement>(null);
   const [idx, setIdx] = useState(0);
   const [blocked, setBlocked] = useState(false);
   const [failed, setFailed] = useState(false);
@@ -32,17 +30,6 @@ export function GachaMovie({
   const [slow, setSlow] = useState(false);
   const playRequest = useRef(0);
   const startedSource = useRef('');
-
-  const syncBgm = useCallback(async (playing: boolean) => {
-    const bgm = bgmRef.current;
-    if (!bgm) return true;
-    return syncPlayback(bgm, {
-      paused: !playing || paused,
-      muted,
-      speed,
-      volume: 0.52,
-    });
-  }, [muted, paused, speed]);
 
   const current = sequence[idx] ?? sequence[0];
   const poster =
@@ -102,18 +89,6 @@ export function GachaMovie({
   }, [current]);
 
   useEffect(() => {
-    const bgm = bgmRef.current;
-    if (!bgm) return;
-    bgm.pause();
-    bgm.currentTime = 0;
-    bgm.load();
-    return () => {
-      bgm.pause();
-      bgm.currentTime = 0;
-    };
-  }, [sequence]);
-
-  useEffect(() => {
     const media = ref.current;
     if (!media) return;
     media.muted = muted;
@@ -123,13 +98,6 @@ export function GachaMovie({
     else if (media.readyState >= HTMLMediaElement.HAVE_CURRENT_DATA)
       void startPlayback(media);
   }, [paused, muted, speed, current, startPlayback]);
-
-  useEffect(() => {
-    const media = ref.current;
-    void syncBgm(
-      !!media && !media.paused && !media.ended && media.readyState >= HTMLMediaElement.HAVE_CURRENT_DATA,
-    );
-  }, [muted, paused, speed, current, syncBgm]);
 
   useEffect(() => {
     if (!waiting || paused) return;
@@ -145,30 +113,17 @@ export function GachaMovie({
       setSlow(false);
       return;
     }
-    const bgm = bgmRef.current;
-    if (bgm) {
-      bgm.pause();
-      bgm.currentTime = 0;
-    }
     onComplete();
   }
 
   async function start() {
     const media = ref.current;
     if (!media) return;
-    const [, bgmStarted] = await Promise.all([
-      startPlayback(media),
-      syncBgm(!media.paused),
-    ]);
-    if (bgmStarted) setBlocked(false);
+    await startPlayback(media);
   }
 
   return (
     <div className="original-movie">
-      {/* Instrumental BGM is synchronized with the segmented movie; each MP4
-          keeps its embedded cat/environment/transition sound. */}
-      {/* oxlint-disable-next-line jsx-a11y/media-has-caption */}
-      <audio ref={bgmRef} src={mediaUrl('introBgm')} preload="auto" loop />
       {/* oxlint-disable-next-line jsx-a11y/media-has-caption */}
       <video
         key={current}
@@ -184,23 +139,17 @@ export function GachaMovie({
         onPlaying={() => {
           setWaiting(false);
           setSlow(false);
-          void syncBgm(true).then((ok) => {
-            if (!ok) setBlocked(true);
-          });
           onPlaying(true);
         }}
         onPause={() => {
-          void syncBgm(false);
           onPlaying(false);
         }}
         onWaiting={() => {
-          void syncBgm(false);
           setWaiting(true);
           onPlaying(false);
         }}
         onTimeUpdate={(event) => onTime(event.currentTarget.currentTime)}
         onError={() => {
-          void syncBgm(false);
           setFailed(true);
           setWaiting(false);
           onPlaying(false);

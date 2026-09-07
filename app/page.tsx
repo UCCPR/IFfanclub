@@ -768,7 +768,7 @@ export default function Home() {
                   {/* The recovered pool movie supplies the original animated
                       UP-character half. Its embedded audio stays muted because
                       the pool page owns the original looping BGM separately. */}
-                  {poolMediaReady && (
+                  {poolMediaReady && !cinema && (
                     <video
                       className="pool-stage-motion"
                       src={mediaUrl('poolLoop')}
