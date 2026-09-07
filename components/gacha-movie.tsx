@@ -74,6 +74,8 @@ export function GachaMovie({
       }
     }
   }, [current, muted, paused, speed]);
+  const startPlaybackRef = useRef(startPlayback);
+  startPlaybackRef.current = startPlayback;
 
   useEffect(() => {
     const media = ref.current;
@@ -88,6 +90,10 @@ export function GachaMovie({
     // Explicit load is required for a cached URL to emit a fresh readiness
     // cycle on every new draw, especially under React StrictMode.
     media.load();
+    // Calling play also initiates fetching in browsers that ignore preload for
+    // off-screen or recently inserted media. Waiting only for `canplay` can
+    // otherwise deadlock at readyState 0.
+    void startPlaybackRef.current(media);
     return () => {
       playRequest.current += 1;
       startedSource.current = '';
@@ -150,7 +156,11 @@ export function GachaMovie({
   async function start() {
     const media = ref.current;
     if (!media) return;
-    await startPlayback(media);
+    const [, bgmStarted] = await Promise.all([
+      startPlayback(media),
+      syncBgm(!media.paused),
+    ]);
+    if (bgmStarted) setBlocked(false);
   }
 
   return (
